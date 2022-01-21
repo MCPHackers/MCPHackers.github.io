@@ -4,7 +4,11 @@
 		"client_url": "https://launcher.mojang.com/v1/objects/daa4b9f192d2c260837d3b98c39432324da28e86/client.jar",
 		"server_url": "http://files.betacraft.uk/server-archive/alpha/a0.2.1.jar",
 		"proxy_port": 11702,
-		"time": "2010-09-23",
 		"server": "a0.2.1"
+	},
+	"a1.0.1_01": {
+		"resources": "a1.0.1_01.zip",
+		"client_url": "http://files.betacraft.uk/launcher/assets/versions/a1.0.1_01.jar",
+		"proxy_port": 11702,
 	}
 }
