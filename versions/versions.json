@@ -53,6 +53,34 @@
 		"client_url": "http://files.betacraft.uk/launcher/assets/versions/a1.0.1_01.jar",
 		"proxy_port": 11702
 	},
+	"c0.0.19a_06": {
+		"resources": "c0.0.19a.zip",
+		"client_url": "http://files.betacraft.uk/launcher/assets/versions/c0.0.19a_06-0137.jar",
+		"server_url": "http://files.betacraft.uk/server-archive/classic/c1.6.zip",
+		"proxy_port": 11701,
+		"server": "c1.6"
+	},
+	"c0.0.19a_04": {
+		"resources": "c0.0.19a.zip",
+		"client_url": "http://files.betacraft.uk/launcher/assets/versions/c0.0.19a_04.jar",
+		"server_url": "http://files.betacraft.uk/server-archive/classic/c1.6.zip",
+		"proxy_port": 11701,
+		"server": "c1.6"
+	},
+	"c0.0.18a_02": {
+		"resources": "c0.0.18a_02.zip",
+		"client_url": "http://files.betacraft.uk/launcher/assets/versions/c0.0.18a_02.jar",
+		"server_url": "http://files.betacraft.uk/server-archive/classic/c1.4.1.zip",
+		"proxy_port": 11701,
+		"server": "c1.4.1"
+	},
+	"c0.0.17a": {
+		"resources": "c0.0.17a.zip",
+		"client_url": "http://files.betacraft.uk/launcher/assets/versions/c0.0.17a.jar",
+		"server_url": "http://files.betacraft.uk/server-archive/classic/c1.3.zip",
+		"proxy_port": 11701,
+		"server": "c1.3"
+	},
 	"c0.0.16a_02": {
 		"resources": "c0.0.16a_02.zip",
 		"client_url": "http://files.betacraft.uk/launcher/assets/versions/c0.0.16a_02-2.jar",
