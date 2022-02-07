@@ -123,6 +123,16 @@
 		"client_url": "http://files.betacraft.uk/launcher/assets/versions/a1.0.1_01.jar",
 		"proxy_port": 11702
 	},
+	"inf-20100630-2": {
+        "resources": "inf-20100630-1.zip",
+        "client_url": "https://archive.org/download/Minecraft-JE-Infdev/inf-20100630-2/inf-20100630-2.jar",
+        "proxy_port": 11702
+    },
+    "inf-20100630-1": {
+        "resources": "inf-20100630-1.zip",
+        "client_url": "https://archive.org/download/Minecraft-JE-Infdev/inf-20100630-1/inf-20100630-1.jar",
+        "proxy_port": 11702
+    },
 	"in-20100223": {
 		"resources": "in-2010223.zip",
 		"client_url": "http://files.betacraft.uk/launcher/assets/versions/in-20100223.jar",
