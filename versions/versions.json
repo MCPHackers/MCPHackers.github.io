@@ -105,7 +105,7 @@
 		"server": "a0.2.1"
 	},
 	"a1.1.2": {
-		"resources": "a1.1.2.zip",
+		"resources": "a1.1.1.zip",
 		"client_url": "https://launcher.mojang.com/v1/objects/f9b4b66f9c18bf4800d80f1c8865a837f92c6105/client.jar",
 		"server_url": "http://files.betacraft.uk/server-archive/alpha/a0.2.1.jar",
 		"proxy_port": 11702,
@@ -134,17 +134,17 @@
         "proxy_port": 11702
     },
 	"in-20100223": {
-		"resources": "in-2010223.zip",
+		"resources": "in-20100223.zip",
 		"client_url": "http://files.betacraft.uk/launcher/assets/versions/in-20100223.jar",
 		"proxy_port": 11702
 	},
 	"in-20100219": {
-		"resources": "in-2010219.zip",
+		"resources": "in-20100219.zip",
 		"client_url": "http://files.betacraft.uk/launcher/assets/versions/in-20100219.jar",
 		"proxy_port": 11702
 	},
 	"in-20100130": {
-		"resources": "in-2010130.zip",
+		"resources": "in-20100130.zip",
 		"client_url": "http://files.betacraft.uk/launcher/assets/versions/in-20100130.jar",
 		"proxy_port": 11702
 	},
