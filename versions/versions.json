@@ -1,5 +1,5 @@
 {
-		"1.2.5": {
+	"1.2.5": {
 		"resources": "1.2.5.zip",
 		"client_url": "https://launcher.mojang.com/v1/objects/4a2fac7504182a97dcbcd7560c6392d7c8139928/client.jar",
 		"server_url": "https://assets.minecraft.net/1_2_5/minecraft_server.jar",
@@ -12,6 +12,13 @@
 		"server_url": "http://files.betacraft.uk/server-archive/release/1.2/1.2.4.jar",
 		"proxy_port": 11707,
 		"server": "1.2.4"
+	},	
+	"1.2.3": {
+		"resources": "1.2.3.zip",
+		"client_url": "https://launcher.mojang.com/v1/objects/5134e433afeba375c00bbdcd8aead1d3222813ee/client.jar",
+		"server_url": "http://files.betacraft.uk/server-archive/release/1.2/1.2.3.jar",
+		"proxy_port": 11707,
+		"server": "1.2.3"
 	},
 	"b1.9-pre5": {
 		"resources": "b1.9-pre5.zip",
