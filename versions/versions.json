@@ -160,6 +160,20 @@
       "proxy_port":11705,
       "server":"b1.1"
    },
+   "a1.2.6":{
+      "resources":"a1.2.6.zip",
+      "client_url":"https://launcher.mojang.com/v1/objects/a68c817afd6c05c253ba5462287c2c19bbb57935/client.jar",
+      "server_url":"http://files.betacraft.uk/server-archive/alpha/a0.2.8.jar",
+      "proxy_port":11705,
+      "server":"a0.2.8"
+   },
+   "a1.2.5":{
+      "resources":"a1.2.5.zip",
+      "client_url":"https://launcher.mojang.com/v1/objects/f48c7b6442ad8d01099ecee1c7c7332f1b1a80da/client.jar",
+      "server_url":"http://files.betacraft.uk/server-archive/alpha/a0.2.7.jar",
+      "proxy_port":11705,
+      "server":"a0.2.7"
+   },
    "a1.2.3":{
       "resources":"a1.2.3.zip",
       "client_url":"https://launcher.mojang.com/v1/objects/f4be258122cb62208b350cd2068685ad859bb447/client.jar",
