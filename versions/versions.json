@@ -132,6 +132,34 @@
       "proxy_port":11705,
       "server":"b1.6"
    },
+   "b1.1_02":{
+      "resources":"b1.1.zip",
+      "client_url":"https://launcher.mojang.com/v1/objects/e1c682219df45ebda589a557aadadd6ed093c86c/client.jar",
+      "server_url":"http://files.betacraft.uk/server-archive/beta/b1.1_02.jar",
+      "proxy_port":11705,
+      "server":"b1.1_02"
+   },
+   "b1.1_01":{
+      "resources":"b1.1.zip",
+      "client_url":"https://launcher.mojang.com/v1/objects/6d778940f48389a2741f03c9f17f3c57476fb208/client.jar",
+      "server_url":"http://files.betacraft.uk/server-archive/beta/b1.1_01.jar",
+      "proxy_port":11705,
+      "server":"b1.1_01"
+   },
+   "b1.1-2":{
+      "resources":"b1.1.zip",
+      "client_url":"http://files.betacraft.uk/launcher/assets/versions/b1.1-2.jar",
+      "server_url":"http://files.betacraft.uk/server-archive/beta/b1.1.jar",
+      "proxy_port":11705,
+      "server":"b1.1"
+   },
+   "b1.1-1":{
+      "resources":"b1.1.zip",
+      "client_url":"http://files.betacraft.uk/launcher/assets/versions/b1.1-1.jar",
+      "server_url":"http://files.betacraft.uk/server-archive/beta/b1.1.jar",
+      "proxy_port":11705,
+      "server":"b1.1"
+   },
    "a1.2.3":{
       "resources":"a1.2.3.zip",
       "client_url":"https://launcher.mojang.com/v1/objects/f4be258122cb62208b350cd2068685ad859bb447/client.jar",
