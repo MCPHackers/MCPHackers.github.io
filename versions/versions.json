@@ -352,17 +352,17 @@
 		"proxy_port":11702
 	},
 	"in-20100201-1":{
-		"resources":"in-2010201-1.zip",
+		"resources":"in-20100201-1.zip",
 		"client_url":"http://files.betacraft.uk/launcher/assets/versions/in-20100201-1.jar",
 		"proxy_port":11702
 	},
 	"in-20100131-2":{
-		"resources":"in-2010131-2.zip",
+		"resources":"in-20100131-2.zip",
 		"client_url":"http://files.betacraft.uk/launcher/assets/versions/in-20100131-2.jar",
 		"proxy_port":11702
 	},
 	"in-20100130":{
-		"resources":"in-2010130.zip",
+		"resources":"in-20100130.zip",
 		"client_url":"http://files.betacraft.uk/launcher/assets/versions/in-20100130.jar",
 		"proxy_port":11702
 	},
