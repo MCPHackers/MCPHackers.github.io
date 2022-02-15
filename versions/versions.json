@@ -336,8 +336,8 @@
 		"client_url":"http://files.betacraft.uk/launcher/assets/versions/in-20100207-1.jar",
 		"proxy_port":11702
 	},
-	"in-20100206-2103":{
-		"resources":"in-20100206-2103.zip",
+	"in-20100206":{
+		"resources":"in-20100206.zip",
 		"client_url":"http://files.betacraft.uk/launcher/assets/versions/in-20100206-2103.jar",
 		"proxy_port":11702
 	},
@@ -371,8 +371,8 @@
 		"client_url":"http://files.betacraft.uk/launcher/assets/versions/in-20100129.jar",
 		"proxy_port":11702
 	},
-	"in-20100128-2304":{
-		"resources":"in-20100128-2304.zip",
+	"in-20100128":{
+		"resources":"in-20100128.zip",
 		"client_url":"http://files.betacraft.uk/launcher/assets/versions/in-20100128-2304.jar",
 		"proxy_port":11702
 	},
@@ -386,13 +386,18 @@
 		"client_url":"http://files.betacraft.uk/launcher/assets/versions/in-20100124-2.jar",
 		"proxy_port":11702
 	},
+	"in-20100110":{
+		"resources":"in-20100110.zip",
+		"client_url":"http://files.betacraft.uk/launcher/assets/versions/in-20100110.jar",
+		"proxy_port":11702
+	},
 	"in-20100104":{
 		"resources":"in-20100104.zip",
 		"client_url":"http://files.betacraft.uk/launcher/assets/versions/in-20100104.jar",
 		"proxy_port":11702
 	},
-	"in-20091231-2255":{
-		"resources":"in-20091231-2255.zip",
+	"in-20091231":{
+		"resources":"in-20091231.zip",
 		"client_url":"http://files.betacraft.uk/launcher/assets/versions/in-20091231-2255.jar",
 		"proxy_port":11702
 	},
@@ -400,11 +405,6 @@
 		"resources":"in-20091223-2.zip",
 		"client_url":"http://files.betacraft.uk/launcher/assets/versions/in-20091223-2.jar",
 		"proxy_port":11702
-	},
-	"in-20100110":{
-		"resources":"in-20100110.zip",
-		"client_url":"https://archive.org/download/Minecraft-JE-Indev/in-20100111-1/in-20100111-1.jar",
-		"proxy_port":11701
 	},
 	"c0.0.21a":{
 		"resources":"c0.0.21a.zip",
