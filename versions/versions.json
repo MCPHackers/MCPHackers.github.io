@@ -850,5 +850,23 @@
    "server_timestamp": "2010-09-10T18:43:02Z",
    "resources": "a1.1.0.zip",
    "server_url": "http://files.betacraft.uk/server-archive/alpha/a0.2.0_01.jar"
+  },
+   "b1.5_01": {
+   "client_url": "https://launcher.mojang.com/v1/objects/e2a692e5e8160c84b29c834ecbf398618db9749c/client.jar",
+   "proxy_port": 11705,
+   "server": "b1.5_02",
+   "client_timestamp": "2011-04-19T22:00:00Z",
+   "server_timestamp": "2011-04-19T22:00:00Z",
+   "resources": "b1.5_01.zip",
+   "server_url": "http://files.betacraft.uk/server-archive/beta/b1.5_01.jar"
+  },
+   "b1.4_01": {
+   "client_url": "https://piston-data.mojang.com/v1/objects/6f157f26955c35006c1afa8b0479e0ce785fb864/client.jar",
+   "proxy_port": 11705,
+   "server": "b1.4_01",
+   "client_timestamp": "2011-04-04T22:00:00Z",
+   "server_timestamp": "2011-04-04T22:00:00Z",
+   "resources": "b1.4_01.zip",
+   "server_url": "http://files.betacraft.uk/server-archive/beta/b1.4_01.jar"
   }
  }
