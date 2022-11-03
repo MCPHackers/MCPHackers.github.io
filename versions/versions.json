@@ -438,7 +438,7 @@
    "server_url": "http://files.betacraft.uk/server-archive/alpha/a0.2.5_02.jar"
   },
   "b1.9-pre5": {
-   "client_url": "https://assets.minecraft.net/1_9-pre5/minecraft.jar",
+   "client_url": "https://files.betacraft.uk/launcher/assets/versions/b1.9-pre5.jar",
    "proxy_port": 11707,
    "server": "b1.9-pre5",
    "client_timestamp": "2011-10-27T13:36:04Z",
@@ -600,7 +600,7 @@
    "client_timestamp": "2012-03-30T09:07:22Z",
    "server_timestamp": "2012-03-30T09:07:34Z",
    "resources": "1.2.5.zip",
-   "server_url": "https://assets.minecraft.net/1_2_5/minecraft_server.jar"
+   "server_url": "https://files.betacraft.uk/server-archive/release/1.2/1.2.5.jar"
   },
   "a1.1.1": {
    "client_url": "http://files.betacraft.uk/launcher/assets/versions/a1.1.1.jar",
