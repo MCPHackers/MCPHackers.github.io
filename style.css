@@ -1,0 +1,104 @@
+@font-face {
+  font-family: "Minecraft";
+   src: url("fonts/minecraft.ttf") format("truetype");
+}
+
+a {
+	text-decoration: none;
+}
+
+body {
+	/*background-image: linear-gradient(to bottom, #303060, #050500);
+    background-repeat: no-repeat;
+    background-attachment: fixed;*/
+	background-image: url("images/dirt.png");
+	color: #fff;
+    height: 100%;
+    margin: 0;
+}
+
+.mc, .mcgray,
+.mcsplash,
+.mcbutton {
+	font-weight: 100;
+	font-family: "Minecraft";
+	letter-spacing: 0px;
+	line-height: 1.2;
+	font-size: 24px;
+	text-shadow: 3px 3px 0 #3F3F3F;
+	color: #ffffff;
+}
+
+.mcgray {
+	text-shadow: 3px 3px 0 #141414;
+	color: #505050;
+}
+
+.mcsplash {
+	font-size: 48px;
+	text-shadow: 5px 5px 0 #3F3F00;
+	color: #FFFF00;
+	animation-name: splash;
+	animation-duration: 0.5s;
+	animation-iteration-count: infinite;
+	position:relative;
+	z-index: 20;
+}
+
+.mcbutton, .mcbutton_disabled {
+	display: block;
+	margin:6px auto;
+    box-sizing: border-box;
+    padding: 16px 6px;
+    text-align: center;
+	text-decoration: none;
+	background-image: url("images/button.png");
+	border: none;
+	outline: none;
+	text-shadow: 3px 3px 0 #383838;
+	color: #E0E0E0;
+	width: 600px;
+	height: 60px;
+}
+
+.mcbutton:hover {
+	background-image: url("images/button_active.png");
+	text-shadow: 3px 3px 0 #3F3F28;
+	color: #FFFFA0;
+}
+
+.mcbutton_disabled {
+	background-image: url("images/button_inactive.png");
+	text-shadow: none;
+	color: #A0A0A0;
+	pointer-events: none;
+}
+
+@keyframes splash {
+  0%   {
+	  animation-timing-function: ease-out;
+	  transform: rotate(-15deg) translateX(120px) scale(0.9);
+	  }
+  50%   {
+	  animation-timing-function: ease-in;
+	  transform: rotate(-15deg) translateX(120px) scale(1);
+	  }
+  100%   {
+	  animation-timing-function: ease-out;
+	  transform: rotate(-15deg) translateX(120px) scale(0.9);
+	  }
+}
+
+#footer {
+	padding: 6px 6px;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+}
+
+.wrapper {
+    margin: 2rem auto; /* to make the div center align to the browser */
+    padding: 20px;
+    width: 580px; /* set it to anything */
+    text-align: center;
+}
