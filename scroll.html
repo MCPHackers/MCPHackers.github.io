@@ -15,6 +15,7 @@
 		<title>Versions</title>
 		<link rel="icon" type="image/icon type" href="images/icon.png">
 		<link rel="stylesheet" type="text/css" href="style.css"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1"/>
 	</head>
 	<body class="dirt darkbg">
 		<div class="fgtop mc" style="margin: 0 auto">
@@ -22,76 +23,48 @@
 		</div>
 		<div class="scrollcontent">
 			<div class="menucontainer" id="vers">
-
-				<div tabindex="-1" class="mc scrollitem">
-				<div>
-					Alpha v1.0.1_01
-					<span style="float: right">
-						<a href class="offset1">Client</a>
-						<a href style="pointer-events:none" class="darkgray">Server</a>
-					</span>
-				</div>
-				<a class="res" href>Mappings</a>
-				</div>
-
-				<div tabindex="-1" class="mc scrollitem">
-				<div>
-					Alpha v1.1.2_01
-					<span style="float: right">
-						<a href class="offset1">Client</a>
-						<a href>Server</a>
-					</span>
-				</div>
-				<a class="res" href>Mappings</a>
-				</div>
-
-				<div tabindex="-1" class="mc scrollitem">
-				<div>
-					Beta 1.7.3
-					<span style="float: right">
-						<a href class="offset1">Client</a>
-						<a href>Server</a>
-					</span>
-				</div>
-				<a class="res" href>Mappings</a>
-				</div>
-
-				<div tabindex="-1" class="mc scrollitem">
-				<div>
-					Release 1.2.5
-					<span style="float: right">
-						<a href class="offset1">Client</a>
-						<a href>Server</a>
-					</span>
-				</div>
-				<a class="res" href>Mappings</a>
-				</div>
-
-				<div tabindex="-1" class="mc scrollitem">
-				<div>
-					Release 1.5.2
-					<span style="float: right">
-						<a href class="offset1">Client</a>
-						<a href>Server</a>
-					</span>
-				</div>
-				<a class="res" href>Mappings</a>
-				</div>
-
-				<div tabindex="-1" class="mc scrollitem">
-				<div>
-					Release 1.7.2
-					<span style="float: right">
-						<a href class="offset1">Client</a>
-						<a href>Server</a>
-					</span>
-				</div>
-				<a class="res" href>Mappings</a>
-				</div>
-			
 			</div>
 		</div>
 		<div class="fgbottom">
 		</div>
+		<script>
+			var versions = document.getElementById("vers")
+			fetch('versions/versions.json').then((response) => response.json()).then((json) => {
+				for (var version in json) {
+					var clientURL = json[version]["client_url"]
+					var serverURL = json[version]["server_url"]
+					versions.innerHTML += `<div tabindex="-1" class="mc scrollitem">
+						<div>` + version + `
+							<span style="float: right">
+								<a href="` + clientURL + `" class="offset1">Client</a>
+								<a href="` + checkNullOrUndefined(serverURL, "") + `" ` + getServerURLStyleProperty(serverURL) + `>Server</a>
+							</span>
+						</div>
+						<a class="res" href>Mappings</a>
+						</div>
+					`
+				}
+			}).catch((err) => {
+				// versions could not be loaded.
+			})
+
+			function getServerURLStyleProperty(serverURL) {
+				if (serverURL) {
+					return ``
+				} else {
+					return `style="pointer-events:none" class="darkgray"`
+				}
+			}
+
+			function checkNullOrUndefined (thing, defaultReturn) {
+				if (typeof thing === "undefined") {
+					return defaultReturn
+				} else if (thing === null) {
+					return defaultReturn
+				} else {
+					return thing
+				}
+			}
+		</script>
 	</body>
 </html>
