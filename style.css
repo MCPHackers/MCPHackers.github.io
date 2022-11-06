@@ -6,11 +6,16 @@
 :root {
 	--global-scale: 3;
 	--default-shadow: #3F3F3F;
-	--default-text: #FFFFFF
+	--default-color: #FFFFFF
 }
 
 a {
 	text-decoration: none;
+}
+
+body {
+	--local-scale: calc(var(--scale, 1) * var(--global-scale));
+    margin: calc(var(--local-scale) * 4px) calc(var(--local-scale) * 4px);
 }
 
 @media (min-width: 1440px){
@@ -25,16 +30,19 @@ a {
     }
 }
 
-@media (max-width: 1080px){
+@media (max-width: 920px){
     body {
 		--global-scale: 2;
     }
 }
-div.fgbottom {
-	bottom: 0;
-}
-div.fgtop {
-	top: 0;
+div.fgbottom { bottom: 0; }
+div.fgtop { top: 0; }
+
+div.scrollitem,
+.center {
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
 }
 
 div.scrollcontent {
@@ -84,7 +92,7 @@ div.fgbottom {
 	background-blend-mode: multiply;
 }
 
-body#gradient {
+.gradient {
 	background-size: cover;
 	background-image: linear-gradient(to bottom, #303060, #050500);
     background-repeat: no-repeat;
@@ -99,49 +107,34 @@ ul {
 h1,
 h2,
 a,
-#mcgray_ui,
-#black,
-#darkblue,
-#darkgreen,
-#darkaqua,
-#darkred,
-#darkpurple,
-#gold,
-#gray,
-#darkgray,
-#blue,
-#green,
-#aqua,
-#red,
-#lightpurple,
-#yellow,
-#white,
+
+.mcgray_ui, .black, .darkblue, .darkgreen, .darkaqua, .darkred, .darkpurple, .gold, .gray, .darkgray, .blue, .green, .aqua, .red, .lightpurple, .yellow, .white,
+
 .mc,
 .mcsplash,
 .mcbutton,
+.mcbutton_disabled,
 .mcslider,
 .mctextfield,
 .mcbuttontext {
 	outline:none;
+	width: fit-content;
 	--local-scale: calc(var(--scale, 1) * var(--global-scale));
 	--local-color: var(--text-color, var(--default-color));
 	--local-shadow: var(--shadow-color, var(--default-shadow));
 	font-weight: 100;
 	font-family: "Minecraft";
+	word-spacing: calc(2px * var(--local-scale));
+	line-height: calc(9px * var(--local-scale));
 	font-size: calc(8px * var(--local-scale));
 	text-shadow: calc(var(--local-scale)* 1px) calc(var(--local-scale) * 1px) 0 var(--local-shadow);
 	color: var(--local-color);
 }
 
-h1 {
-	--shadow-color: #3F3F3F;
-	--text-color: #FFFFFF;
-	--scale: 2;
-    font-weight: 100;
-}
+h1 { --scale: 2;}
+
+h1,
 h2 {
-	--shadow-color: #3F3F3F;
-	--text-color: #FFFFFF;
     font-weight: 100;
 }
 
@@ -201,86 +194,33 @@ h2 {
 
 .mcbutton_disabled {
 	background-image: url("images/button_inactive.svg");
-	text-shadow: none;
-	color: #A0A0A0;
 	pointer-events: none;
 }
 
 
 /* Text colors */
+a:hover, a:focus { --shadow-color: #00002A; --text-color: #0000AA; }
+a { --shadow-color: #15153F; --text-color: #5555FF; }
+h1, h2 { --shadow-color: #3F3F3F; --text-color: #FFFFFF; }
 
-#mcgray_ui {
-	--shadow-color: #282828;
-	--text-color: #A0A0A0;
-}
-
-#black {
-	--shadow-color: #000000;
-	--text-color: #000000;
-}
-a:hover,
-a:focus,
-#darkblue {
-	--shadow-color: #00002A;
-	--text-color: #0000AA;
-}
-#darkgreen {
-	--shadow-color: #002A00;
-	--text-color: #00AA00;
-}
-#darkaqua {
-	--shadow-color: #002A2A;
-	--text-color: #00AAAA;
-}
-#darkred {
-	--shadow-color: #2A0000;
-	--text-color: #AA0000;
-}
-#darkpurple {
-	--shadow-color: #2A002A;
-	--text-color: #AA00AA;
-}
-#gold {
-	--shadow-color: #2A2A00;
-	--text-color: #FFAA00;
-}
-#gray {
-	--shadow-color: #2A2A2A;
-	--text-color: #AAAAAA;
-}
-#darkgray {
-	--shadow-color: #151515;
-	--text-color: #555555;
-}
-a,
-#blue {
-	--shadow-color: #15153F;
-	--text-color: #5555FF;
-}
-#green {
-	--shadow-color: #153F15;
-	--text-color: #55FF55;
-}
-#aqua {
-	--shadow-color: #153F3F;
-	--text-color: #55FFFF;
-}
-#red {
-	--shadow-color: #3F1515;
-	--text-color: #FF5555;
-}
-#lightpurple {
-	--shadow-color: #3F153F;
-	--text-color: #FF55FF;
-}
-#yellow {
-	--shadow-color: #3F3F15;
-	--text-color: #FFFF55;
-}
-#white {
-	--shadow-color: #3F3F3F;
-	--text-color: #FFFFFF;
-}
+.mcbutton_disabled,
+.mcgray_ui { --shadow-color: #282828 !important; --text-color: #A0A0A0 !important; }
+.black { --shadow-color: #000000 !important; --text-color: #000000 !important; }
+.darkblue { --shadow-color: #00002A !important; --text-color: #0000AA !important; }
+.darkgreen { --shadow-color: #002A00 !important; --text-color: #00AA00 !important; }
+.darkaqua { --shadow-color: #002A2A !important; --text-color: #00AAAA !important; }
+.darkred { --shadow-color: #2A0000 !important; --text-color: #AA0000 !important; }
+.darkpurple { --shadow-color: #2A002A !important; --text-color: #AA00AA !important; }
+.gold { --shadow-color: #2A2A00 !important; --text-color: #FFAA00 !important; }
+.gray { --shadow-color: #2A2A2A !important; --text-color: #AAAAAA !important; }
+.darkgray { --shadow-color: #151515 !important; --text-color: #555555 !important; }
+.blue { --shadow-color: #15153F !important; --text-color: #5555FF !important; }
+.green { --shadow-color: #153F15 !important; --text-color: #55FF55 !important; }
+.aqua { --shadow-color: #153F3F !important; --text-color: #55FFFF !important; }
+.red { --shadow-color: #3F1515 !important; --text-color: #FF5555 !important; }
+.lightpurple { --shadow-color: #3F153F !important; --text-color: #FF55FF !important; }
+.yellow { --shadow-color: #3F3F15 !important; --text-color: #FFFF55 !important; }
+.white { --shadow-color: #3F3F3F !important; --text-color: #FFFFFF !important; }
 
 /* --- */
 
@@ -324,13 +264,12 @@ a,
 	  transform: rotate(-15deg) translateX(calc(var(--local-scale) * 30px)) scale(0.9);
 	  }
 }
-.buttoncontainer{
-	line-height: 1.2;
-	width: calc(var(--local-scale) * 200px);
+
+.menucontainer{
+	width: auto;
 	height: auto;
 	position: relative;
 	margin: calc(var(--local-scale) * 12px) auto;
-    text-align: center;
 }
 
 .wrapper {
