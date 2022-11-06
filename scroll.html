@@ -33,6 +33,7 @@
 				for (var version in json) {
 					var clientURL = json[version]["client_url"]
 					var serverURL = json[version]["server_url"]
+					var mappings = json[version]["resources"]
 					versions.innerHTML += `<div tabindex="-1" class="mc scrollitem">
 						<div>` + version + `
 							<span style="float: right">
@@ -40,7 +41,7 @@
 								<a href="` + checkNullOrUndefined(serverURL, "") + `" ` + getServerURLStyleProperty(serverURL) + `>Server</a>
 							</span>
 						</div>
-						<a class="res" href>Mappings</a>
+						<a class="res" href="` + mappings `">Mappings</a>
 						</div>
 					`
 				}
