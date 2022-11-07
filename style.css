@@ -39,6 +39,11 @@ body {
 		--global-scale: 2;
     }
 }
+@media (max-width: 700px){
+    body {
+		--global-scale: 1;
+    }
+}
 div.fgbottom { bottom: 0; }
 div.fgtop { top: 0; }
 
@@ -162,11 +167,12 @@ h2 {
 	display: block;
 	margin:calc(var(--local-scale) * 4px) auto;
     box-sizing: border-box;
-    padding: calc(var(--local-scale) * 5px + 1px) 0px;
+    padding: calc(var(--local-scale) * 6px) 0px;
     text-align: center;
 	text-decoration: none;
 	background-size: cover;
 	background-image: url("images/button.svg");
+	line-height: 1;
 	--shadow-color: #383838;
 	--text-color: #E0E0E0;
 	width: calc(var(--local-scale) * 200px);

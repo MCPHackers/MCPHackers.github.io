@@ -29,17 +29,23 @@
 			<a href="index.html" class="mcbutton center">Back</a>
 		</div>
 		<script>
-			var versions = document.getElementById("vers")
+			const versions = document.getElementById("vers")
 			fetch('versions/versions.json').then((response) => response.json()).then((json) => {
-				for (var version in json) {
-					var clientURL = json[version]["client_url"]
-					var serverURL = json[version]["server_url"]
-					var mappings = json[version]["resources"]
+				const map = Object.entries(json);
+				map.sort((a, b) => {
+					return (a[1].client_timestamp < b[1].client_timestamp) ? 1 : ((a[1].client_timestamp > b[1].client_timestamp) ? -1 : 0);
+				})
+				for (var i = 0; i < map.length; i++) {
+					const entry = map[i]
+					const version = entry[0]
+					const clientURL = entry[1].client_url
+					const serverURL = entry[1].server_url
+					const mappings = entry[1].resources
 					versions.innerHTML += `<div tabindex="-1" class="mc scrollitem">
 						<div>` + version + `
 							<span style="float: right">
-								<a href="` + clientURL + `" class="offset1">Client</a>
-								<a href="` + checkNullOrUndefined(serverURL, "") + `" ` + getServerURLStyleProperty(serverURL) + `>Server</a>
+								<a href="` + clientURL + `" class="offset1">Client</a>`
+								+ getServerTag(serverURL) + `
 							</span>
 						</div>
 						<a class="res" href="versions/` + mappings + `">Mappings</a>
@@ -47,24 +53,24 @@
 					`
 				}
 			}).catch((err) => {
-				// versions could not be loaded.
+				versions.innerHTML = `<div class="red mc">Versions could not be loaded</div>`
 			})
 
-			function getServerURLStyleProperty(serverURL) {
-				if (serverURL) {
-					return ``
+			function getServerTag(serverURL) {
+				if (notNullOrUndefined(serverURL)) {
+					return `<a href="` + serverURL + `">Server</a>`
 				} else {
-					return `style="pointer-events:none" class="darkgray"`
+					return `<span class="darkgray">Server</span>`
 				}
 			}
 
-			function checkNullOrUndefined (thing, defaultReturn) {
+			function notNullOrUndefined (thing) {
 				if (typeof thing === "undefined") {
-					return defaultReturn
+					return false
 				} else if (thing === null) {
-					return defaultReturn
+					return false
 				} else {
-					return thing
+					return true
 				}
 			}
 		</script>
