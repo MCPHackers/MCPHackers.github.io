@@ -34,7 +34,7 @@ body {
     }
 }
 
-@media (max-width: 920px){
+@media (max-width: 1080px){
     body {
 		--global-scale: 2;
     }
@@ -270,16 +270,8 @@ h1, h2 { --shadow-color: #3F3F3F; --text-color: #FFFFFF; }
 }
 
 .menucontainer{
-	width: auto;
+	width: fit-content;
 	height: auto;
 	position: relative;
 	margin: calc(var(--local-scale) * 12px) auto;
-}
-
-.wrapper {
-	--local-scale: calc(var(--scale, var(--global-scale)) + 1);
-	margin: calc(var(--local-scale) * 12px) auto;
-	padding: calc(var(--local-scale) * 2px);
-	width: calc(var(--local-scale) * 105px);
-    text-align: center;
 }

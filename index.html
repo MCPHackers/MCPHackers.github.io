@@ -26,24 +26,28 @@ function getRandomInt(max) {
   return Math.floor(Math.random() * max);
 }
 
-function splash() {
-  const splash = document.getElementById("randomsplash");
-  const index = getRandomInt(splashes.length);
-  splash.innerHTML = splashes[index];
-  splash.style.cssText = "--scale:" + splashSizes[index];
+function splash(isRandom) {
+	const splash = document.getElementById("randomsplash");
+	var index = 0;
+	if(isRandom) {
+		index = getRandomInt(splashes.length);
+	}
+	splash.innerHTML = splashes[index];
+	splash.style.cssText = "--scale:" + splashSizes[index];
 }
 </script>
-	<body class="dirt" onload="splash()">
-		<div class="menucontainer center">
+	<body class="dirt" onload="splash(false)">
+		<div class="menucontainer center" style="height: calc((var(--local-scale) + 1) * 56px);">
 			<img src="images/logo.svg" style="width: calc((var(--local-scale) + 1) * 105px);" alt="MCP">
 			<div class="mcsplash center">
-				<div class="mc" id="randomsplash"><br></div>
+				<div class="mc center" id="randomsplash"><br></div>
 			</div>
 		</div>
 		<h2 class="center">RetroMCP is a tool which makes decompiling legacy Minecraft simple</h2>
 		<div class="menucontainer">
 			<a href="https://github.com/MCPHackers/RetroMCP-Java" class="mcbutton">Github page</a>
 			<a href="https://github.com/MCPHackers/RetroMCP-Java/wiki" class="mcbutton">Check the wiki</a>
+			<a href="versions.html" class="mcbutton">Version mappings</a>
 			<a href="https://github.com/MCPHackers/RetroMCP-Java/releases/latest" class="mcbutton">Download latest</a>
 		</div>
 		<h2 class="center">RetroDebugInjector (RDI) is a Java bytecode manipulation utility</h2>
