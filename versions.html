@@ -6,19 +6,20 @@
 		<link rel="icon" type="image/icon type" href="images/icon.png">
 		<link rel="stylesheet" type="text/css" href="style.css"/>
 	</head>
-	<body class="dirt darkbg">
-		<div style="height: 100vh; display:grid;align-content: space-between;">
-			<div class="fgtop flex_space">
-				<h2 style="position:fixed">Versions</h2>
-				<input class="mctextfield center" oninput="updateSearch(this, false)" onkeypress="if(event.keyCode == 13) updateSearch(this, true)">
+	<body class="dirt darkbg grid">
+		<div class="fgtop flex_space" style="padding-top: calc(var(--local-scale) * 4px);">
+			<h2 style="position:absolute">Versions</h2>
+			<input class="mctextfield center" style="z-index:1" oninput="updateSearch(this, false)" onkeypress="if(event.keyCode == 13) updateSearch(this, true)">
+		</div>
+		<div class="scrollcontent">
+			<div class="menucontainer" id="vers">
 			</div>
-			<div class="scrollcontent">
-				<div class="menucontainer" id="vers">
-				</div>
-			</div>
-			<div class="fgbottom">
-				<a href="index.html" class="mcbutton center">Back</a>
-			</div>
+		</div>
+		<!-- Invisible grid row -->
+		<div style="height: calc(var(--local-scale) * 32px);"></div>
+		<!-- Fixed row -->
+		<div style="position:fixed; bottom:0" class="fgbottom">
+			<a href="index.html" class="mcbutton center">Back</a>
 		</div>
 		<script src="script/versions.js"></script>
 	</body>
