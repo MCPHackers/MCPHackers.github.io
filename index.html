@@ -6,41 +6,13 @@
 		<link rel="icon" type="image/icon type" href="images/icon.png">
 		<link rel="stylesheet" type="text/css" href="style.css"/>
 	</head>
-<script>
-const splashSizes = [2, 2, 2, 1.7, 2, 1.8, 0.8, 1.2, 1, 1.4, 1.9];
-const splashes = [
-"HACKERS",
-"Uses HTML!",
-"Uses CSS!",
-"Random splash!",
-"Indev!",
-"Decompiling...",
-"Uncaught exception in thread \"Minecraft main thread\"",
-"RetroMCP-Python is cringe!",
-"Welcome to the Los Pollos hermanos family",
-"Try to center a &lt;div&gt;",
-"<span class=\"darkblue\">C</span><span class=\"darkgreen\">o</span><span class=\"darkaqua\">l</span><span class=\"darkred\">o</span><span class=\"darkpurple\">r</span><span class=\"gold\">m</span><span class=\"gray\">a</span><span class=\"darkgray\">t</span><span class=\"blue\">i</span><span class=\"green\">c</span>"
-];
-
-function getRandomInt(max) {
-  return Math.floor(Math.random() * max);
-}
-
-function splash(isRandom) {
-	const splash = document.getElementById("randomsplash");
-	var index = 0;
-	if(isRandom) {
-		index = getRandomInt(splashes.length);
-	}
-	splash.innerHTML = splashes[index];
-	splash.style.cssText = "--scale:" + splashSizes[index];
-}
-</script>
-	<body class="dirt" onload="splash(false)">
-		<div class="menucontainer center" style="height: calc(var(--local-scale) * 80px);">
-			<img src="images/logo.svg" style="width: calc(var(--local-scale) * 140px);" alt="MCP">
-			<div class="mcsplash center">
-				<div class="mc center" id="randomsplash"><br></div>
+	<script src="script/splashes.js">
+	</script>
+	<body class="dirt" onload="splash()">
+		<div class="menucontainer grid" style="height: calc(var(--local-scale) * 80px);">
+			<img class="center" src="images/logo.svg" style="width: calc(var(--local-scale) * 140px);" alt="MCP">
+			<div class="mcsplash center flex">
+				<div class="mc" id="randomsplash"><br></div>
 			</div>
 		</div>
 		<h2 class="center">RetroMCP is a tool which makes decompiling legacy Minecraft simple</h2>

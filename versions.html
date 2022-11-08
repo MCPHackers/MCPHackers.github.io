@@ -1,16 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-	<style>
-		.offset1 {
-			margin-right:calc(var(--local-scale) * 10px);
-		}
-		.res {
-			--shadow-color: #153F15; --text-color: #55FF55;
-		}
-		.res:hover, .res:focus {
-			--shadow-color: #002A00; --text-color: #00AA00;
-		}
-	</style>
 	<head>
 		<title>Versions</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -18,61 +7,19 @@
 		<link rel="stylesheet" type="text/css" href="style.css"/>
 	</head>
 	<body class="dirt darkbg">
-		<div class="fgtop mc center">
-			<h2 style="margin: calc(var(--local-scale) * 10px) auto">Versions</h2>
-		</div>
-		<div class="scrollcontent">
-			<div class="menucontainer" id="vers">
+		<div style="height: 100vh; display:grid;align-content: space-between;">
+			<div class="fgtop flex_space">
+				<h2 style="position:fixed">Versions</h2>
+				<input class="mctextfield center" oninput="updateSearch(this, false)" onkeypress="if(event.keyCode == 13) updateSearch(this, true)">
+			</div>
+			<div class="scrollcontent">
+				<div class="menucontainer" id="vers">
+				</div>
+			</div>
+			<div class="fgbottom">
+				<a href="index.html" class="mcbutton center">Back</a>
 			</div>
 		</div>
-		<div class="fgbottom">
-			<a href="index.html" class="mcbutton center">Back</a>
-		</div>
-		<script>
-			const versions = document.getElementById("vers")
-			fetch('versions/versions.json').then((response) => response.json()).then((json) => {
-				const map = Object.entries(json);
-				map.sort((a, b) => {
-					return (a[1].client_timestamp < b[1].client_timestamp) ? 1 : ((a[1].client_timestamp > b[1].client_timestamp) ? -1 : 0);
-				})
-				for (var i = 0; i < map.length; i++) {
-					const entry = map[i]
-					const version = entry[0]
-					const clientURL = entry[1].client_url
-					const serverURL = entry[1].server_url
-					const mappings = entry[1].resources
-					versions.innerHTML += `<div tabindex="-1" class="mc scrollitem">
-						<div>` + version + `
-							<span style="float: right">
-								<a href="` + clientURL + `" class="offset1">Client</a>`
-								+ getServerTag(serverURL) + `
-							</span>
-						</div>
-						<a class="res" href="versions/` + mappings + `">Mappings</a>
-						</div>
-					`
-				}
-			}).catch((err) => {
-				versions.innerHTML = `<div class="red mc">Versions could not be loaded</div>`
-			})
-
-			function getServerTag(serverURL) {
-				if (notNullOrUndefined(serverURL)) {
-					return `<a href="` + serverURL + `">Server</a>`
-				} else {
-					return `<span class="darkgray">Server</span>`
-				}
-			}
-
-			function notNullOrUndefined (thing) {
-				if (typeof thing === "undefined") {
-					return false
-				} else if (thing === null) {
-					return false
-				} else {
-					return true
-				}
-			}
-		</script>
+		<script src="script/versions.js"></script>
 	</body>
 </html>
