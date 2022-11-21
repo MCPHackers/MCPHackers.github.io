@@ -68,7 +68,7 @@ body {
 
 body.grid {
 	height: 100vh;
-	align-content: space-between;
+    grid-template-rows: max-content auto max-content;
 }
 
 div.scrollitem {
@@ -78,6 +78,9 @@ div.scrollitem {
 }
 
 div.scrollcontent {
+	display: grid;
+	align-items: center;
+    background-attachment: local;
 	overflow-y: auto;
 	height: auto;
 }
@@ -104,9 +107,8 @@ div.scrollitem:focus-within {
 div.fgtop,
 div.fgbottom,
 .dirt {
-	color: #fff;
-    height: 100%;
     margin: 0;
+	color: #fff;
 	--local-scale: calc(var(--scale, 1) * var(--global-scale));
 	background-image: url("images/dirt.svg");
 	background-size: calc(var(--local-scale) * 32px);
@@ -343,8 +345,8 @@ h1, h2 { --shadow-color: #3F3F3F; --text-color: #FFFFFF; }
 }
 
 .menucontainer{
+	margin: calc(var(--local-scale) * 12px) auto;
 	width: fit-content;
 	height: auto;
 	position: relative;
-	margin: calc(var(--local-scale) * 12px) auto;
 }
