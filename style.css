@@ -166,6 +166,13 @@ a,
 	color: var(--local-color);
 }
 
+.mcslider::before {
+	position: absolute;
+	text-align: center;
+	width: inherit;
+	content: var(--slider-text, "");
+}
+
 ul {
     padding-inline-start: calc(16px * var(--local-scale));
 }

@@ -1,854 +1,477 @@
-{
-  "in-20091231": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/in-20091231-2255.jar",
-   "proxy_port": 11702,
-   "client_timestamp": "2009-12-31T21:55:48Z",
-   "resources": "in-20091231.zip"
-  },
-  "inf-20100330": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/inf-20100330.jar",
-   "proxy_port": 11702,
-   "client_timestamp": "2010-03-30T15:11:02Z",
-   "resources": "inf-20100330.zip"
-  },
-  "in-20100110": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/in-20100110.jar",
-   "proxy_port": 11702,
-   "client_timestamp": "2010-01-10T22:02:26Z",
-   "resources": "in-20100110.zip"
-  },
-  "c0.0.15a": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/c0.0.15a-1a.jar",
-   "proxy_port": 11701,
-   "client_timestamp": "2009-05-31T18:04:24Z",
-   "resources": "c0.0.15a.zip"
-  },
-  "rd-132328": {
-   "client_url": "https://launcher.mojang.com/v1/objects/12dace5a458617d3f90337a7ebde86c0593a6899/client.jar",
-   "proxy_port": 11701,
-   "client_timestamp": "2009-05-13T23:28:00Z",
-   "resources": "rd-1.zip"
-  },
-  "in-20091223-2": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/in-20091223-2.jar",
-   "proxy_port": 11702,
-   "client_timestamp": "2009-12-23T13:59:06Z",
-   "resources": "in-20091223-2.zip"
-  },
-  "rd-132211": {
-   "client_url": "https://launcher.mojang.com/v1/objects/393e8d4b4d708587e2accd7c5221db65365e1075/client.jar",
-   "proxy_port": 11701,
-   "client_timestamp": "2009-05-13T22:11:00Z",
-   "resources": "rd-1.zip"
-  },
-  "b1.6.2": {
-   "client_url": "https://launcher.mojang.com/v1/objects/e8aa50949b077b672be2e651ea3f7b1bbd9020e1/client.jar",
-   "proxy_port": 11705,
-   "server": "b1.6.2",
-   "client_timestamp": "2011-05-26T08:31:40Z",
-   "server_timestamp": "2011-05-26T08:31:52Z",
-   "resources": "b1.6.zip",
-   "server_url": "http://files.betacraft.uk/server-archive/beta/b1.6.2.jar"
-  },
-  "c0.0.23a_01": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/c0.0.23a_01.jar",
-   "proxy_port": 11701,
-   "server": "c1.8.2",
-   "client_timestamp": "2009-07-11T13:35:02Z",
-   "resources": "c0.0.23a_01.zip",
-   "server_url": "http://files.betacraft.uk/server-archive/classic/c1.8.2.zip"
-  },
-  "b1.6.1": {
-   "client_url": "https://launcher.mojang.com/v1/objects/63a66d6d145696296bdaaeaba0a42f738b87a362/client.jar",
-   "proxy_port": 11705,
-   "server": "b1.6.1",
-   "client_timestamp": "2011-05-26T08:19:08Z",
-   "server_timestamp": "2011-05-26T08:19:18Z",
-   "resources": "b1.6.zip",
-   "server_url": "http://files.betacraft.uk/server-archive/beta/b1.6.1.jar"
-  },
-  "inf-20100415": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/inf-20100415.jar",
-   "proxy_port": 11702,
-   "client_timestamp": "2010-04-15T08:32:06Z",
-   "resources": "inf-20100415.zip"
-  },
-  "b1.6.6": {
-   "client_url": "https://launcher.mojang.com/v1/objects/f95fe05711d09553ca2a9089f981741c13d6b8c4/client.jar",
-   "proxy_port": 11705,
-   "server": "b1.6.6",
-   "client_timestamp": "2011-05-31T11:36:32Z",
-   "server_timestamp": "2011-05-31T11:36:44Z",
-   "resources": "b1.6.zip",
-   "server_url": "http://files.betacraft.uk/server-archive/beta/b1.6.6.jar"
-  },
-  "inf-20100625-1": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/inf-20100625-1.jar",
-   "proxy_port": 11702,
-   "client_timestamp": "2010-06-25T08:22:34Z",
-   "resources": "inf-20100625-1.zip"
-  },
-  "b1.6.5": {
-   "client_url": "https://launcher.mojang.com/v1/objects/90ed9854b43c4d031ed07381ea3ae3071a8bba6f/client.jar",
-   "proxy_port": 11705,
-   "server": "b1.6.5",
-   "client_timestamp": "2011-05-28T14:12:56Z",
-   "server_timestamp": "2011-05-28T14:13:08Z",
-   "resources": "b1.6.zip",
-   "server_url": "http://files.betacraft.uk/server-archive/beta/b1.6.5.jar"
-  },
-  "b1.6-tb3": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/b1.6-test_build_3.jar",
-   "proxy_port": 11705,
-   "server": "b1.6-tb3",
-   "client_timestamp": "2011-05-25T07:35:42Z",
-   "server_timestamp": "2011-05-25T07:35:52Z",
-   "resources": "b1.6-tb3.zip",
-   "server_url": "http://files.betacraft.uk/server-archive/beta/prerelease/b1.6-tb3.jar"
-  },
-  "b1.6.4": {
-   "client_url": "https://launcher.mojang.com/v1/objects/b5d3bdb8a7b12d163651f4787ac6ca14689aab9e/client.jar",
-   "proxy_port": 11705,
-   "server": "b1.6.4",
-   "client_timestamp": "2011-05-26T13:09:10Z",
-   "server_timestamp": "2011-05-26T13:09:20Z",
-   "resources": "b1.6.zip",
-   "server_url": "http://files.betacraft.uk/server-archive/beta/b1.6.4.jar"
-  },
-  "b1.8.1": {
-   "client_url": "https://launcher.mojang.com/v1/objects/6b562463ccc2c7ff12ff350a2b04a67b3adcd37b/client.jar",
-   "proxy_port": 11705,
-   "server": "b1.8.1",
-   "client_timestamp": "2011-09-15T07:18:58Z",
-   "server_timestamp": "2011-09-15T07:19:26Z",
-   "resources": "b1.8.zip",
-   "server_url": "http://files.betacraft.uk/server-archive/beta/b1.8.1.jar"
-  },
-  "b1.6.3": {
-   "client_url": "https://launcher.mojang.com/v1/objects/924e36dbb7c64abb30a95fe35f5affb5176f6cbc/client.jar",
-   "proxy_port": 11705,
-   "server": "b1.6.3",
-   "client_timestamp": "2011-05-26T12:20:12Z",
-   "server_timestamp": "2011-05-26T12:19:56Z",
-   "resources": "b1.6.zip",
-   "server_url": "http://files.betacraft.uk/server-archive/beta/b1.6.3.jar"
-  },
-  "c0.0.18a_02": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/c0.0.18a_02.jar",
-   "proxy_port": 11701,
-   "server": "c1.4.1",
-   "client_timestamp": "2009-06-14T08:53:24Z",
-   "resources": "c0.0.18a_02.zip",
-   "server_url": "http://files.betacraft.uk/server-archive/classic/c1.4.1.zip"
-  },
-  "in-20100131-2": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/in-20100131-2.jar",
-   "proxy_port": 11702,
-   "client_timestamp": "2010-01-31T21:44:48Z",
-   "resources": "in-20100131-2.zip"
-  },
-  "in-20100223": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/in-20100223.jar",
-   "proxy_port": 11702,
-   "client_timestamp": "2010-02-23T14:42:06Z",
-   "resources": "in-20100223.zip"
-  },
-  "c0.0.14a_08": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/c0.0.14a_08.jar",
-   "proxy_port": 11701,
-   "client_timestamp": "2009-05-28T19:37:38Z",
-   "resources": "c0.0.14a_08.zip"
-  },
-  "rd-160052": {
-   "client_url": "https://launcher.mojang.com/v1/objects/b100be8097195b6c9112046dc6a80d326c8df839/client.jar",
-   "proxy_port": 11701,
-   "client_timestamp": "2009-05-16T00:52:00Z",
-   "resources": "rd-1.zip"
-  },
-  "in-20100104": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/in-20100104.jar",
-   "proxy_port": 11702,
-   "client_timestamp": "2010-01-04T21:58:10Z",
-   "resources": "in-20100104.zip"
-  },
-  "a1.1.2_01": {
-   "client_url": "https://launcher.mojang.com/v1/objects/daa4b9f192d2c260837d3b98c39432324da28e86/client.jar",
-   "proxy_port": 11702,
-   "server": "a0.2.1",
-   "client_timestamp": "2010-09-23T11:39:20Z",
-   "server_timestamp": "2010-09-18T22:15:44Z",
-   "resources": "a1.1.2_01.zip",
-   "server_url": "http://files.betacraft.uk/server-archive/alpha/a0.2.1.jar"
-  },
-  "b1.1_01": {
-   "client_url": "https://launcher.mojang.com/v1/objects/6d778940f48389a2741f03c9f17f3c57476fb208/client.jar",
-   "proxy_port": 11705,
-   "server": "b1.1_01",
-   "client_timestamp": "2010-12-22T12:02:00Z",
-   "server_timestamp": "2010-12-22T12:02:12Z",
-   "resources": "b1.1.zip",
-   "server_url": "http://files.betacraft.uk/server-archive/beta/b1.1_01.jar"
-  },
-  "b1.1_02": {
-   "client_url": "https://launcher.mojang.com/v1/objects/e1c682219df45ebda589a557aadadd6ed093c86c/client.jar",
-   "proxy_port": 11705,
-   "server": "b1.1_02",
-   "client_timestamp": "2010-12-22T12:14:56Z",
-   "server_timestamp": "2010-12-22T12:15:46Z",
-   "resources": "b1.1.zip",
-   "server_url": "http://files.betacraft.uk/server-archive/beta/b1.1_02.jar"
-  },
-  "a1.2.6": {
-   "client_url": "https://launcher.mojang.com/v1/objects/a68c817afd6c05c253ba5462287c2c19bbb57935/client.jar",
-   "proxy_port": 11705,
-   "server": "a0.2.8",
-   "client_timestamp": "2010-12-03T13:18:16Z",
-   "server_timestamp": "2010-12-03T13:18:32Z",
-   "resources": "a1.2.6.zip",
-   "server_url": "http://files.betacraft.uk/server-archive/alpha/a0.2.8.jar"
-  },
-  "1.1": {
-   "client_url": "https://launcher.mojang.com/v1/objects/f690d4136b0026d452163538495b9b0e8513d718/client.jar",
-   "proxy_port": 11707,
-   "server": "1.1",
-   "client_timestamp": "2012-01-12T13:20:24Z",
-   "server_timestamp": "2012-01-12T13:28:42Z",
-   "resources": "1.1.zip",
-   "server_url": "http://files.betacraft.uk/server-archive/release/1.1/1.1.jar"
-  },
-  "b1.8": {
-   "client_url": "https://launcher.mojang.com/v1/objects/3139e9c29b2c74f59ea04de760ac2af5bc21b410/client.jar",
-   "proxy_port": 11705,
-   "server": "b1.8",
-   "client_timestamp": "2011-09-14T08:42:42Z",
-   "server_timestamp": "2011-09-14T08:42:54Z",
-   "resources": "b1.8.zip",
-   "server_url": "http://files.betacraft.uk/server-archive/beta/b1.8.jar"
-  },
-  "b1.1-2": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/b1.1-2.jar",
-   "proxy_port": 11705,
-   "server": "b1.1",
-   "client_timestamp": "2010-12-22T11:55:30Z",
-   "server_timestamp": "2010-12-22T11:47:52Z",
-   "resources": "b1.1.zip",
-   "server_url": "http://files.betacraft.uk/server-archive/beta/b1.1.jar"
-  },
-  "b1.7": {
-   "client_url": "https://launcher.mojang.com/v1/objects/ad7960853437bcab86bd72c4a1b95f6fe19f4258/client.jar",
-   "proxy_port": 11705,
-   "server": "b1.7",
-   "client_timestamp": "2011-06-30T12:34:54Z",
-   "server_timestamp": "2011-06-30T12:36:40Z",
-   "resources": "b1.7.zip",
-   "server_url": "http://files.betacraft.uk/server-archive/beta/b1.7.jar"
-  },
-  "b1.1-1": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/b1.1-1.jar",
-   "proxy_port": 11705,
-   "server": "b1.1",
-   "client_timestamp": "2010-12-22T11:45:10Z",
-   "server_timestamp": "2010-12-22T11:47:52Z",
-   "resources": "b1.1.zip",
-   "server_url": "http://files.betacraft.uk/server-archive/beta/b1.1.jar"
-  },
-  "a1.2.5": {
-   "client_url": "https://launcher.mojang.com/v1/objects/f48c7b6442ad8d01099ecee1c7c7332f1b1a80da/client.jar",
-   "proxy_port": 11705,
-   "server": "a0.2.7",
-   "client_timestamp": "2010-12-01T14:08:46Z",
-   "server_timestamp": "2010-12-01T14:08:56Z",
-   "resources": "a1.2.5.zip",
-   "server_url": "http://files.betacraft.uk/server-archive/alpha/a0.2.7.jar"
-  },
-  "a1.2.3": {
-   "client_url": "https://launcher.mojang.com/v1/objects/f4be258122cb62208b350cd2068685ad859bb447/client.jar",
-   "proxy_port": 11705,
-   "server": "a0.2.5-1",
-   "client_timestamp": "2010-11-24T08:23:02Z",
-   "server_timestamp": "2010-11-24T08:23:12Z",
-   "resources": "a1.2.3.zip",
-   "server_url": "http://files.betacraft.uk/server-archive/alpha/a0.2.5-0923.jar"
-  },
-  "c0.0.13a": {
-   "client_url": "https://launcher.mojang.com/v1/objects/936d575b1ab1a04a341ad43d76e441e88d2cd987/client.jar",
-   "proxy_port": 11701,
-   "client_timestamp": "2009-05-21T00:00:00Z",
-   "resources": "c0.0.13a.zip"
-  },
-  "c0.0.16a_02": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/c0.0.16a_02-2.jar",
-   "proxy_port": 11701,
-   "server": "c1.2",
-   "client_timestamp": "2009-06-08T09:47:16Z",
-   "resources": "c0.0.16a_02.zip",
-   "server_url": "http://files.betacraft.uk/server-archive/classic/c1.2.zip"
-  },
-  "b1.6": {
-   "client_url": "https://launcher.mojang.com/v1/objects/ecc0288d218fd7479027a17c150cbf283fa950a1/client.jar",
-   "proxy_port": 11705,
-   "server": "b1.6",
-   "client_timestamp": "2011-05-26T07:57:38Z",
-   "server_timestamp": "2011-05-26T07:57:56Z",
-   "resources": "b1.6.zip",
-   "server_url": "http://files.betacraft.uk/server-archive/beta/b1.6.jar"
-  },
-  "in-20100212-2": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/in-20100212-2.jar",
-   "proxy_port": 11702,
-   "client_timestamp": "2010-02-12T15:22:08Z",
-   "resources": "in-20100212-2.zip"
-  },
-  "inf-20100327": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/inf-20100327.jar",
-   "proxy_port": 11702,
-   "client_timestamp": "2010-03-27T19:06:32Z",
-   "resources": "inf-20100327.zip"
-  },
-  "in-20100212-1": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/in-20100212-1.jar",
-   "proxy_port": 11702,
-   "client_timestamp": "2010-02-12T11:10:52Z",
-   "resources": "in-20100212-1.zip"
-  },
-  "c0.0.21a": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/c0.0.21a-2.jar",
-   "proxy_port": 11701,
-   "server": "c1.8.2",
-   "client_timestamp": "2009-06-22T19:08:40Z",
-   "resources": "c0.0.21a.zip",
-   "server_url": "http://files.betacraft.uk/server-archive/classic/c1.8.2.zip"
-  },
-  "c0.0.20a_01": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/c0.0.20a_01.jar",
-   "proxy_port": 11701,
-   "server": "c1.8.2",
-   "client_timestamp": "2009-06-20T20:10:58Z",
-   "resources": "c0.0.20a_01.zip",
-   "server_url": "http://files.betacraft.uk/server-archive/classic/c1.8.2.zip"
-  },
-  "in-20100130": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/in-20100130.jar",
-   "proxy_port": 11702,
-   "client_timestamp": "2010-01-30T00:09:30Z",
-   "resources": "in-20100130.zip"
-  },
-  "in-20100207-2": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/in-20100207-2.jar",
-   "proxy_port": 11702,
-   "client_timestamp": "2010-02-07T16:03:36Z",
-   "resources": "in-20100207-2.zip"
-  },
-  "c0.0.17a": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/c0.0.17a.jar",
-   "proxy_port": 11701,
-   "server": "c1.3",
-   "client_timestamp": "2009-06-10T19:14:44Z",
-   "resources": "c0.0.17a.zip",
-   "server_url": "http://files.betacraft.uk/server-archive/classic/c1.3.zip"
-  },
-  "in-20100207-1": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/in-20100207-1.jar",
-   "proxy_port": 11702,
-   "client_timestamp": "2010-02-07T10:01:02Z",
-   "resources": "in-20100207-1.zip"
-  },
-  "c0.0.12a_03": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/c0.0.12a_03-200018.jar",
-   "proxy_port": 11701,
-   "client_timestamp": "2009-05-19T23:18:48Z",
-   "resources": "c0.0.12a_03.zip"
-  },
-  "in-20100124-2": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/in-20100124-2.jar",
-   "proxy_port": 11702,
-   "client_timestamp": "2010-01-24T22:10:20Z",
-   "resources": "in-20100124-2.zip"
-  },
-  "in-20100213": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/in-20100213.jar",
-   "proxy_port": 11702,
-   "client_timestamp": "2010-02-13T21:58:22Z",
-   "resources": "in-20100213.zip"
-  },
-  "in-20100214": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/in-20100214.jar",
-   "proxy_port": 11702,
-   "client_timestamp": "2010-02-14T20:43:44Z",
-   "resources": "in-20100214.zip"
-  },
-  "b1.2_01": {
-   "client_url": "https://launcher.mojang.com/v1/objects/f71a5b58c9bd0e458878d78a34c9fb35e97d5222/client.jar",
-   "proxy_port": 11705,
-   "server": "b1.2_01",
-   "client_timestamp": "2011-01-14T12:26:40Z",
-   "server_timestamp": "2011-01-14T12:26:00Z",
-   "resources": "b1.2.zip",
-   "server_url": "http://files.betacraft.uk/server-archive/beta/b1.2_01.jar"
-  },
-  "b1.2_02": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/b1.2_02.jar",
-   "proxy_port": 11705,
-   "server": "b1.2_02",
-   "client_timestamp": "2011-01-21T12:57:34Z",
-   "server_timestamp": "2011-01-14T12:26:00Z",
-   "resources": "b1.2.zip",
-   "server_url": "http://files.betacraft.uk/server-archive/beta/b1.2_01.jar"
-  },
-  "in-20100219": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/in-20100219.jar",
-   "proxy_port": 11702,
-   "client_timestamp": "2010-02-19T14:11:32Z",
-   "resources": "in-20100219.zip"
-  },
-  "in-20100218": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/in-20100218.jar",
-   "proxy_port": 11702,
-   "client_timestamp": "2010-02-17T23:16:04Z",
-   "resources": "in-20100218.zip"
-  },
-  "c0.0.13a_03": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/c0.0.13a_03.jar",
-   "proxy_port": 11701,
-   "client_timestamp": "2009-05-22T17:13:12Z",
-   "resources": "c0.0.13a_03.zip"
-  },
-  "a1.2.3_02": {
-   "client_url": "https://launcher.mojang.com/v1/objects/dc61158e1df763f87483abb6ab540dc1c42e63c4/client.jar",
-   "proxy_port": 11705,
-   "server": "a0.2.5_01",
-   "client_timestamp": "2010-11-25T15:12:24Z",
-   "server_timestamp": "2010-11-25T15:12:08Z",
-   "resources": "a1.2.3.zip",
-   "server_url": "http://files.betacraft.uk/server-archive/alpha/a0.2.5_01.jar"
-  },
-  "rd-161348": {
-   "client_url": "https://launcher.mojang.com/v1/objects/6323bd14ed7f83852e17ebc8ec418e55c97ddfe4/client.jar",
-   "proxy_port": 11701,
-   "client_timestamp": "2009-05-16T13:48:00Z",
-   "resources": "rd-2.zip"
-  },
-  "a1.2.3_04": {
-   "client_url": "https://launcher.mojang.com/v1/objects/7f60cb9d0d40af20001d15287b78aa26a217a910/client.jar",
-   "proxy_port": 11705,
-   "server": "a0.2.5_02",
-   "client_timestamp": "2010-11-26T11:59:44Z",
-   "server_timestamp": "2010-11-26T12:02:30Z",
-   "resources": "a1.2.3.zip",
-   "server_url": "http://files.betacraft.uk/server-archive/alpha/a0.2.5_02.jar"
-  },
-  "b1.9-pre5": {
-   "client_url": "https://assets.minecraft.net/1_9-pre5/minecraft.jar",
-   "proxy_port": 11707,
-   "server": "b1.9-pre5",
-   "client_timestamp": "2011-10-27T13:36:04Z",
-   "server_timestamp": "2011-10-27T13:36:22Z",
-   "resources": "b1.9-pre5.zip",
-   "server_url": "http://files.betacraft.uk/server-archive/beta/prerelease/b1.9-pre5.jar"
-  },
-  "in-20100201-2": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/in-20100201-2.jar",
-   "proxy_port": 11702,
-   "client_timestamp": "2010-02-01T21:27:26Z",
-   "resources": "in-20100201-2.zip"
-  },
-  "in-20100201-1": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/in-20100201-1.jar",
-   "proxy_port": 11702,
-   "client_timestamp": "2010-01-31T23:25:48Z",
-   "resources": "in-20100201-1.zip"
-  },
-  "c0.0.22a_05": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/c0.0.22a_05.jar",
-   "proxy_port": 11701,
-   "server": "c1.8.2",
-   "client_timestamp": "2009-06-29T22:28:28Z",
-   "resources": "c0.0.22a_05.zip",
-   "server_url": "http://files.betacraft.uk/server-archive/classic/c1.8.2.zip"
-  },
-  "b1.7.3": {
-   "client_url": "https://launcher.mojang.com/v1/objects/43db9b498cb67058d2e12d394e6507722e71bb45/client.jar",
-   "proxy_port": 11705,
-   "server": "b1.7.3",
-   "client_timestamp": "2011-07-08T06:32:14Z",
-   "server_timestamp": "2011-07-08T06:42:50Z",
-   "resources": "b1.7.zip",
-   "server_url": "http://files.betacraft.uk/server-archive/beta/b1.7.3.jar"
-  },
-  "a1.2.3_01": {
-   "client_url": "https://launcher.mojang.com/v1/objects/1d46e65022f3a7cf4b8ad30ee5a8d52b3b2b9486/client.jar",
-   "proxy_port": 11705,
-   "server": "a0.2.5-2",
-   "client_timestamp": "2010-11-24T08:58:28Z",
-   "server_timestamp": "2010-11-24T09:04:32Z",
-   "resources": "a1.2.3.zip",
-   "server_url": "http://files.betacraft.uk/server-archive/alpha/a0.2.5-1004.jar"
-  },
-  "b1.7.2": {
-   "client_url": "https://launcher.mojang.com/v1/objects/7dc50cc5e2ff204a7283f0c7d38cd0370b49875b/client.jar",
-   "proxy_port": 11705,
-   "server": "b1.7.2",
-   "client_timestamp": "2011-07-01T10:44:12Z",
-   "server_timestamp": "2011-07-01T10:44:54Z",
-   "resources": "b1.7.zip",
-   "server_url": "http://files.betacraft.uk/server-archive/beta/b1.7.2.jar"
-  },
-  "inf-20100420": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/inf-20100420.jar",
-   "proxy_port": 11702,
-   "client_timestamp": "2010-04-20T15:35:44Z",
-   "resources": "inf-20100420.zip"
-  },
-  "a1.0.1_01": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/a1.0.1_01.jar",
-   "proxy_port": 11702,
-   "client_timestamp": "2010-07-02T22:19:56Z",
-   "resources": "a1.0.1_01.zip"
-  },
-  "in-20100202": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/in-20100202.jar",
-   "proxy_port": 11702,
-   "client_timestamp": "2010-02-02T22:30:46Z",
-   "resources": "in-20100202.zip"
-  },
-  "in-20100125": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/in-20100125.jar",
-   "proxy_port": 11702,
-   "client_timestamp": "2010-01-25T20:00:58Z",
-   "resources": "in-20100125.zip"
-  },
-  "b1.7_01": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/b1.7_01.jar",
-   "proxy_port": 11705,
-   "server": "b1.7_01",
-   "client_timestamp": "2011-06-30T13:34:46Z",
-   "server_timestamp": "2011-06-30T13:34:56Z",
-   "resources": "b1.7.zip",
-   "server_url": "http://files.betacraft.uk/server-archive/beta/b1.7_01.jar"
-  },
-  "b1.3_01": {
-   "client_url": "https://launcher.mojang.com/v1/objects/add3809d2c075e985d4b583632dac3d9c3872945/client.jar",
-   "proxy_port": 11705,
-   "server": "b1.3-2",
-   "client_timestamp": "2011-02-23T13:09:38Z",
-   "server_timestamp": "2011-02-22T16:31:32Z",
-   "resources": "b1.3_01.zip",
-   "server_url": "http://files.betacraft.uk/server-archive/beta/b1.3-1731.jar"
-  },
-  "b1.3-pcg": {
-   "client_url": "https://mcphackers.github.io/b1.3-pcg.jar",
-   "proxy_port": 11705,
-   "client_timestamp": "2011-03-15T22:00:32Z",
-   "resources": "b1.3-pcg.zip",
-  },
-  "in-20100206": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/in-20100206-2103.jar",
-   "proxy_port": 11702,
-   "client_timestamp": "2010-02-06T20:03:58Z",
-   "resources": "in-20100206.zip"
-  },
-  "in-20100129": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/in-20100129.jar",
-   "proxy_port": 11702,
-   "client_timestamp": "2010-01-29T13:52:40Z",
-   "resources": "in-20100129.zip"
-  },
-  "c0.0.19a_06": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/c0.0.19a_06-0137.jar",
-   "proxy_port": 11701,
-   "server": "c1.6",
-   "client_timestamp": "2009-06-20T00:37:34Z",
-   "resources": "c0.0.19a.zip",
-   "server_url": "http://files.betacraft.uk/server-archive/classic/c1.6.zip"
-  },
-  "in-20100128": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/in-20100128-2304.jar",
-   "proxy_port": 11702,
-   "client_timestamp": "2010-01-28T22:04:18Z",
-   "resources": "in-20100128.zip"
-  },
-  "c0.0.19a_04": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/c0.0.19a_04.jar",
-   "proxy_port": 11701,
-   "server": "c1.6",
-   "client_timestamp": "2009-06-19T23:53:16Z",
-   "resources": "c0.0.19a.zip",
-   "server_url": "http://files.betacraft.uk/server-archive/classic/c1.6.zip"
-  },
-  "1.2.3": {
-   "client_url": "https://launcher.mojang.com/v1/objects/5134e433afeba375c00bbdcd8aead1d3222813ee/client.jar",
-   "proxy_port": 11707,
-   "server": "1.2.3",
-   "client_timestamp": "2012-03-02T07:36:08Z",
-   "server_timestamp": "2012-03-02T07:36:22Z",
-   "resources": "1.2.3.zip",
-   "server_url": "http://files.betacraft.uk/server-archive/release/1.2/1.2.3.jar"
-  },
-  "1.2.4": {
-   "client_url": "https://launcher.mojang.com/v1/objects/ad6d1fe7455857269d4185cb8f24e62cc0241aaf/client.jar",
-   "proxy_port": 11707,
-   "server": "1.2.4",
-   "client_timestamp": "2012-03-22T14:55:30Z",
-   "server_timestamp": "2012-03-22T14:56:24Z",
-   "resources": "1.2.4.zip",
-   "server_url": "http://files.betacraft.uk/server-archive/release/1.2/1.2.4.jar"
-  },
-  "1.2.5": {
-   "client_url": "https://launcher.mojang.com/v1/objects/4a2fac7504182a97dcbcd7560c6392d7c8139928/client.jar",
-   "proxy_port": 11707,
-   "server": "1.2.5",
-   "client_timestamp": "2012-03-30T09:07:22Z",
-   "server_timestamp": "2012-03-30T09:07:34Z",
-   "resources": "1.2.5.zip",
-   "server_url": "https://assets.minecraft.net/1_2_5/minecraft_server.jar"
-  },
-  "a1.1.1": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/a1.1.1.jar",
-   "proxy_port": 11702,
-   "server": "a0.2.1",
-   "client_timestamp": "2010-09-18T16:29:56Z",
-   "server_timestamp": "2010-09-18T22:15:44Z",
-   "resources": "a1.1.1.zip",
-   "server_url": "http://files.betacraft.uk/server-archive/alpha/a0.2.1.jar"
-  },
-  "a1.1.2": {
-   "client_url": "https://launcher.mojang.com/v1/objects/f9b4b66f9c18bf4800d80f1c8865a837f92c6105/client.jar",
-   "proxy_port": 11702,
-   "server": "a0.2.1",
-   "client_timestamp": "2010-09-18T19:54:46Z",
-   "server_timestamp": "2010-09-18T22:15:44Z",
-   "resources": "a1.1.1.zip",
-   "server_url": "http://files.betacraft.uk/server-archive/alpha/a0.2.1.jar"
-  },
-  "inf-20100630-1": {
-   "client_url": "https://archive.org/download/Minecraft-JE-Infdev/inf-20100630-1/inf-20100630-1.jar",
-   "proxy_port": 11702,
-   "client_timestamp": "2010-06-30T12:40:06Z",
-   "resources": "inf-20100630-1.zip"
-  },
-  "inf-20100227": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/inf-20100227.jar",
-   "proxy_port": 11702,
-   "client_timestamp": "2010-02-27T13:33:02Z",
-   "resources": "inf-20100227.zip"
-  },
-  "c0.0.11a": {
-   "client_url": "https://launcher.mojang.com/v1/objects/3a799f179b6dcac5f3a46846d687ebbd95856984/client.jar",
-   "proxy_port": 11701,
-   "client_timestamp": "2009-05-17T00:00:00Z",
-   "resources": "c0.0.11a.zip"
-  },
-  "inf-20100630-2": {
-   "client_url": "https://archive.org/download/Minecraft-JE-Infdev/inf-20100630-2/inf-20100630-2.jar",
-   "proxy_port": 11702,
-   "client_timestamp": "2010-06-30T17:35:02Z",
-   "resources": "inf-20100630-1.zip"
-  },
-  "inf-20100624": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/inf-20100624.jar",
-   "proxy_port": 11702,
-   "client_timestamp": "2010-06-24T16:39:08Z",
-   "resources": "inf-20100624.zip"
-  },
-  "1.0.0": {
-   "client_url": "https://launcher.mojang.com/v1/objects/b679fea27f2284836202e9365e13a82552092e5d/client.jar",
-   "proxy_port": 11707,
-   "server": "1.0.1",
-   "client_timestamp": "2011-11-14T15:43:52Z",
-   "server_timestamp": "2011-11-24T11:48:46Z",
-   "resources": "1.0.0.zip",
-   "server_url": "http://files.betacraft.uk/server-archive/release/1.0/1.0.1.jar"
-  },
-  "a1.0.2_02": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/a1.0.2_02.jar",
-   "proxy_port": 11702,
-   "client_timestamp": "2010-07-06T17:44:32Z",
-   "resources": "a1.0.2_01.zip"
-  },
-  "a1.0.2_01": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/a1.0.2_01.jar",
-   "proxy_port": 11702,
-   "client_timestamp": "2010-07-06T12:27:22Z",
-   "resources": "a1.0.2_01.zip"
-  },
-  "a1.0.16_01": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/a1.0.16_01.jar",
-   "proxy_port": 11702,
-   "server": "a0.1.3",
-   "client_timestamp": "2010-08-12T17:00:06Z",
-   "server_timestamp": "2010-08-17T10:17:32Z",
-   "resources": "a1.0.16.zip",
-   "server_url": "http://files.betacraft.uk/server-archive/alpha/a0.1.3.jar"
-  },
-  "a1.0.8_01": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/a1.0.8_01.jar",
-   "proxy_port": 11702,
-   "client_timestamp": "2010-07-19T22:40:38Z",
-   "resources": "a1.0.8_01.zip"
-  },
-  "a1.0.6_01": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/a1.0.6_01.jar",
-   "proxy_port": 11702,
-   "client_timestamp": "2010-07-17T16:03:22Z",
-   "resources": "a1.0.6.zip"
-  },
-  "a1.0.15": {
-   "client_url": "https://launcher.mojang.com/v1/objects/03edaff812bedd4157a90877e779d7b7ecf78e97/client.jar",
-   "proxy_port": 11702,
-   "server": "a0.1.2_01",
-   "client_timestamp": "2010-08-03T18:47:24Z",
-   "server_timestamp": "2010-08-12T17:54:34Z",
-   "resources": "a1.0.15.zip",
-   "server_url": "http://files.betacraft.uk/server-archive/alpha/a0.1.2_01.jar"
-  },
-  "a1.0.6_03": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/a1.0.6_03.jar",
-   "proxy_port": 11702,
-   "client_timestamp": "2010-07-17T17:24:58Z",
-   "resources": "a1.0.6.zip"
-  },
-  "a1.0.16": {
-   "client_url": "https://launcher.mojang.com/v1/objects/98ce80c7630ccb3bb38687ff98bfd18935d49a57/client.jar",
-   "proxy_port": 11702,
-   "server": "a0.1.3",
-   "client_timestamp": "2010-08-12T15:18:24Z",
-   "server_timestamp": "2010-08-17T10:17:32Z",
-   "resources": "a1.0.16.zip",
-   "server_url": "http://files.betacraft.uk/server-archive/alpha/a0.1.3.jar"
-  },
-  "a1.0.13_01-1": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/a1.0.13_01-1.jar",
-   "proxy_port": 11702,
-   "client_timestamp": "2010-07-29T09:38:16Z",
-   "resources": "a1.0.13.zip"
-  },
-  "a1.0.17_03": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/a1.0.17_03.jar",
-   "proxy_port": 11702,
-   "server": "a0.1.4",
-   "client_timestamp": "2010-08-23T15:22:30Z",
-   "server_timestamp": "2010-08-20T12:02:36Z",
-   "resources": "a1.0.17.zip",
-   "server_url": "http://files.betacraft.uk/server-archive/alpha/a0.1.4.jar"
-  },
-  "a1.0.13_01-2": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/a1.0.13_01-2.jar",
-   "proxy_port": 11702,
-   "client_timestamp": "2010-07-29T13:44:52Z",
-   "resources": "a1.0.13.zip"
-  },
-  "a1.0.17_04": {
-   "client_url": "https://launcher.mojang.com/v1/objects/61cb4c717981f34bf90e8502d2eb8cf2aa6db0cd/client.jar",
-   "proxy_port": 11702,
-   "server": "a0.1.4",
-   "client_timestamp": "2010-08-23T20:24:16Z",
-   "server_timestamp": "2010-08-20T12:02:36Z",
-   "resources": "a1.0.17.zip",
-   "server_url": "http://files.betacraft.uk/server-archive/alpha/a0.1.4.jar"
-  },
-  "a1.0.10": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/a1.0.10.jar",
-   "proxy_port": 11702,
-   "client_timestamp": "2010-07-22T15:57:14Z",
-   "resources": "a1.0.10.zip"
-  },
-  "a1.0.11": {
-   "client_url": "https://launcher.mojang.com/v1/objects/d7ceb02909d0e1031a99ff4d8053d3f4abfbb2da/client.jar",
-   "proxy_port": 11702,
-   "client_timestamp": "2010-07-23T13:36:38Z",
-   "resources": "a1.0.11.zip"
-  },
-  "a1.0.12": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/a1.0.12.jar",
-   "proxy_port": 11702,
-   "client_timestamp": "2010-07-26T15:08:56Z",
-   "resources": "a1.0.12.zip"
-  },
-  "a1.0.17_02": {
-   "client_url": "https://launcher.mojang.com/v1/objects/39f20ee472a40322e034643a8d1668836f5052bd/client.jar",
-   "proxy_port": 11702,
-   "server": "a0.1.4",
-   "client_timestamp": "2010-08-20T12:23:48Z",
-   "server_timestamp": "2010-08-20T12:02:36Z",
-   "resources": "a1.0.17.zip",
-   "server_url": "http://files.betacraft.uk/server-archive/alpha/a0.1.4.jar"
-  },
-  "a1.0.13": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/a1.0.13.jar",
-   "proxy_port": 11702,
-   "client_timestamp": "2010-07-28T15:30:02Z",
-   "resources": "a1.0.13.zip"
-  },
-  "a1.0.14-2": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/a1.0.14-2.jar",
-   "proxy_port": 11702,
-   "client_timestamp": "2010-07-30T15:59:14Z",
-   "resources": "a1.0.14.zip"
-  },
-  "a1.0.14-1": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/a1.0.14-1.jar",
-   "proxy_port": 11702,
-   "client_timestamp": "2010-07-30T15:03:24Z",
-   "resources": "a1.0.14.zip"
-  },
-  "a1.0.9": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/a1.0.9.jar",
-   "proxy_port": 11702,
-   "client_timestamp": "2010-07-21T10:30:30Z",
-   "resources": "a1.0.9.zip"
-  },
-  "a1.0.6": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/a1.0.6.jar",
-   "proxy_port": 11702,
-   "client_timestamp": "2010-07-16T10:29:26Z",
-   "resources": "a1.0.6.zip"
-  },
-  "a1.0.7": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/a1.0.7.jar",
-   "proxy_port": 11702,
-   "client_timestamp": "2010-07-19T16:23:56Z",
-   "resources": "a1.0.7.zip"
-  },
-  "a1.0.4": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/a1.0.4.jar",
-   "proxy_port": 11702,
-   "client_timestamp": "2010-07-09T14:12:52Z",
-   "resources": "a1.0.4.zip"
-  },
-  "a1.0.5": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/a1.0.5-2.jar",
-   "proxy_port": 11702,
-   "client_timestamp": "2010-07-13T20:49:50Z",
-   "resources": "a1.0.5.zip"
-  },
-  "a1.0.5_01": {
-   "client_url": "https://launcher.mojang.com/v1/objects/73f569bf5556580979606049204835ae1a54f04d/client.jar",
-   "proxy_port": 11702,
-   "client_timestamp": "2010-07-14T19:46:26Z",
-   "resources": "a1.0.5_01.zip"
-  },
-  "a1.0.3": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/a1.0.3.jar",
-   "proxy_port": 11702,
-   "client_timestamp": "2010-07-07T17:59:24Z",
-   "resources": "a1.0.3.zip"
-  },
-  "a1.0.16_02": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/a1.0.16_02.jar",
-   "proxy_port": 11702,
-   "server": "a0.1.3",
-   "client_timestamp": "2010-08-13T08:30:14Z",
-   "server_timestamp": "2010-08-17T10:17:32Z",
-   "resources": "a1.0.16.zip",
-   "server_url": "http://files.betacraft.uk/server-archive/alpha/a0.1.3.jar"
-  },
-  "a1.1.0": {
-   "client_url": "http://files.betacraft.uk/launcher/assets/versions/a1.1.0-2.jar",
-   "proxy_port": 11702,
-   "server": "a0.2.0_01",
-   "client_timestamp": "2010-09-13T18:33:30Z",
-   "server_timestamp": "2010-09-10T18:43:02Z",
-   "resources": "a1.1.0.zip",
-   "server_url": "http://files.betacraft.uk/server-archive/alpha/a0.2.0_01.jar"
-  }
- }
+[
+	{
+		"id":"1.5.2",
+		"type":"release",
+		"url":"https://launchermeta.mojang.com/v1/packages/924a2dcd8bdc31f8e9d36229811c298b3537bbc7/1.5.2.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2013-04-25T15:45:00+00:00",
+		"resources": "file:///D:/Stuff/git/MCPHackers.github.io/versions/1.5.2.zip"
+	},
+	{
+		"id":"1.2.5",
+		"type":"release",
+		"url":"https://launchermeta.mojang.com/v1/packages/5158765caf1ca14958cb6c45d52c8e09ed9b046c/1.2.5.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2012-03-29T22:00:00+00:00",
+		"resources": "file:///D:/Stuff/git/MCPHackers.github.io/versions/1.2.5.zip"
+	},
+	{
+		"id":"1.2.4",
+		"type":"release",
+		"url":"https://launchermeta.mojang.com/v1/packages/69a67fcf11ed1298c6b43a00d64461908a318749/1.2.4.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2012-03-21T22:00:00+00:00",
+		"resources": "file:///D:/Stuff/git/MCPHackers.github.io/versions/1.2.4.zip"
+	},
+	{
+		"id":"1.2.3",
+		"type":"release",
+		"url":"https://launchermeta.mojang.com/v1/packages/2f7eaec33e3017a413c677eefa59df2e5919e536/1.2.3.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2012-03-01T22:00:00+00:00",
+		"resources": "file:///D:/Stuff/git/MCPHackers.github.io/versions/1.2.3.zip"
+	},
+	{
+		"id":"1.1",
+		"type":"release",
+		"url":"https://launchermeta.mojang.com/v1/packages/c0cb9368dbdbb1e8dbcb9363a28d8da74cf6fc5e/1.1.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2012-01-11T22:00:00+00:00"
+	},
+	{
+		"id":"1.0",
+		"type":"release",
+		"url":"https://launchermeta.mojang.com/v1/packages/75062586b830dd5160f13f1c9130eb365e01f1b9/1.0.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2011-11-17T22:00:00+00:00"
+	},
+	{
+		"id":"b1.8.1",
+		"type":"old_beta",
+		"url":"https://launchermeta.mojang.com/v1/packages/440e3b845c3991492a3d0c5f0ccfda78ab90d9b6/b1.8.1.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2011-09-18T22:00:00+00:00",
+		"resources": "D:/Stuff/git/MCPHackers.github.io/versions/b1.8.zip"
+	},
+	{
+		"id":"b1.8",
+		"type":"old_beta",
+		"url":"https://launchermeta.mojang.com/v1/packages/e5b20b1a15daa60effefd86da94b118086214e8b/b1.8.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2011-09-14T22:00:00+00:00"
+	},
+	{
+		"id":"b1.7.3",
+		"type":"old_beta",
+		"url":"https://launchermeta.mojang.com/v1/packages/44f6969326bd45aa00dcd3c4ca3a7c05ebb24c04/b1.7.3.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2011-07-07T22:00:00+00:00"
+	},
+	{
+		"id":"b1.7.2",
+		"type":"old_beta",
+		"url":"https://launchermeta.mojang.com/v1/packages/00f5aff7cbf6ce109ecf2c8e1a5dc1bcbadb5680/b1.7.2.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2011-06-30T22:00:00+00:00"
+	},
+	{
+		"id":"b1.7",
+		"type":"old_beta",
+		"url":"https://launchermeta.mojang.com/v1/packages/f3a725f9f27e90f2a2622ad82c182c1a1178572f/b1.7.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2011-06-29T22:00:00+00:00"
+	},
+	{
+		"id":"b1.6.6",
+		"type":"old_beta",
+		"url":"https://launchermeta.mojang.com/v1/packages/16cb1aa6f7c9c3953fa2f53abd8f57558efd3e71/b1.6.6.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2011-05-30T22:00:00+00:00"
+	},
+	{
+		"id":"b1.6.5",
+		"type":"old_beta",
+		"url":"https://launchermeta.mojang.com/v1/packages/eae37053bb49092ce93d40e762f4c3a573ee2880/b1.6.5.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2011-05-27T22:00:00+00:00"
+	},
+	{
+		"id":"b1.6.4",
+		"type":"old_beta",
+		"url":"https://launchermeta.mojang.com/v1/packages/ac98b5e9e44038f3a311736111c16fc30006e1fd/b1.6.4.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2011-05-25T22:00:04+00:00"
+	},
+	{
+		"id":"b1.6.3",
+		"type":"old_beta",
+		"url":"https://launchermeta.mojang.com/v1/packages/87785f4386cd308defcc876fb6d62bf3681be6bc/b1.6.3.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2011-05-25T22:00:03+00:00"
+	},
+	{
+		"id":"b1.6.2",
+		"type":"old_beta",
+		"url":"https://launchermeta.mojang.com/v1/packages/23f8e2f1634d1db8875521d8e0d3fb5340623fd2/b1.6.2.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2011-05-25T22:00:02+00:00"
+	},
+	{
+		"id":"b1.6.1",
+		"type":"old_beta",
+		"url":"https://launchermeta.mojang.com/v1/packages/1958ecd7b20c5a2849b4e1e7a9921891e49178da/b1.6.1.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2011-05-25T22:00:01+00:00"
+	},
+	{
+		"id":"b1.6",
+		"type":"old_beta",
+		"url":"https://launchermeta.mojang.com/v1/packages/7442961ad4f23c60787ab2a3c97a5037c40a92f2/b1.6.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2011-05-25T22:00:00+00:00"
+	},
+	{
+		"id":"b1.5_01",
+		"type":"old_beta",
+		"url":"https://launchermeta.mojang.com/v1/packages/0f0b24408e6ca445e9c4a3ea2a676f71f96f5d35/b1.5_01.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2011-04-19T22:00:00+00:00"
+	},
+	{
+		"id":"b1.5",
+		"type":"old_beta",
+		"url":"https://launchermeta.mojang.com/v1/packages/3fa704bd73444368f04351d6d4add8a3eead9b4e/b1.5.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2011-04-18T22:00:00+00:00"
+	},
+	{
+		"id":"b1.4_01",
+		"type":"old_beta",
+		"url":"https://launchermeta.mojang.com/v1/packages/d47fcb0e4d9b7169fbb26c0bce56ed2082c3bb1d/b1.4_01.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2011-04-04T22:00:00+00:00"
+	},
+	{
+		"id":"b1.4",
+		"type":"old_beta",
+		"url":"https://launchermeta.mojang.com/v1/packages/2cf34d1caca87b68ee104e348480e38f45eb7621/b1.4.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2011-03-30T22:00:00+00:00"
+	},
+	{
+		"id":"b1.3_01",
+		"type":"old_beta",
+		"url":"https://launchermeta.mojang.com/v1/packages/a0e0a27d8f7d4c23b6441e473a3e44b45a958284/b1.3_01.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2011-02-22T22:00:00+00:00"
+	},
+	{
+		"id":"b1.3b",
+		"type":"old_beta",
+		"url":"https://launchermeta.mojang.com/v1/packages/16ffb877701f7b41c6f27fb09def7a8e5d667df1/b1.3b.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2011-02-21T22:00:00+00:00"
+	},
+	{
+		"id":"b1.2_02",
+		"type":"old_beta",
+		"url":"https://launchermeta.mojang.com/v1/packages/5352763f0a944e7940e718fd66aae03bc57dc2ef/b1.2_02.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2011-01-20T22:00:00+00:00"
+	},
+	{
+		"id":"b1.2_01",
+		"type":"old_beta",
+		"url":"https://launchermeta.mojang.com/v1/packages/0fea71dc8c4199581753d8ecb3ae69039a302340/b1.2_01.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2011-01-13T22:00:00+00:00"
+	},
+	{
+		"id":"b1.2",
+		"type":"old_beta",
+		"url":"https://launchermeta.mojang.com/v1/packages/67bcdada56d272e4508ecb8e35827ffa4a4c18d1/b1.2.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2011-01-12T22:00:00+00:00"
+	},
+	{
+		"id":"b1.1_02",
+		"type":"old_beta",
+		"url":"https://launchermeta.mojang.com/v1/packages/01042e0ecdd894894ebc6f45300ae306010c154f/b1.1_02.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2010-12-21T22:00:01+00:00"
+	},
+	{
+		"id":"b1.1_01",
+		"type":"old_beta",
+		"url":"https://launchermeta.mojang.com/v1/packages/1bab185d888a549a3fcb4e528557caa3e7884290/b1.1_01.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2010-12-21T22:00:00+00:00"
+	},
+	{
+		"id":"b1.0.2",
+		"type":"old_beta",
+		"url":"https://launchermeta.mojang.com/v1/packages/e0a317286013bdd8e6de6da5e709422af61597d8/b1.0.2.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2010-12-20T22:00:00+00:00"
+	},
+	{
+		"id":"b1.0_01",
+		"type":"old_beta",
+		"url":"https://launchermeta.mojang.com/v1/packages/d3eec813918ee87826f7bca65dd1558b33841798/b1.0_01.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2010-12-19T22:00:01+00:00"
+	},
+	{
+		"id":"b1.0",
+		"type":"old_beta",
+		"url":"https://launchermeta.mojang.com/v1/packages/e5348beaf3d3c366c522b1c70044f8b7be168b02/b1.0.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2010-12-19T22:00:00+00:00"
+	},
+	{
+		"id":"a1.2.6",
+		"type":"old_alpha",
+		"url":"https://launchermeta.mojang.com/v1/packages/1c888e4d8aed380db25aeb3835f5918297bb5e3a/a1.2.6.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2010-12-02T22:00:00+00:00"
+	},
+	{
+		"id":"a1.2.5",
+		"type":"old_alpha",
+		"url":"https://launchermeta.mojang.com/v1/packages/a925f00e3f7f1bde95240152bef4d15f36971394/a1.2.5.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2010-11-30T22:00:00+00:00"
+	},
+	{
+		"id":"a1.2.4_01",
+		"type":"old_alpha",
+		"url":"https://launchermeta.mojang.com/v1/packages/64d6a749cb24ddd8a27546f9555ac7c2853c5943/a1.2.4_01.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2010-11-29T22:00:00+00:00"
+	},
+	{
+		"id":"a1.2.3_04",
+		"type":"old_alpha",
+		"url":"https://launchermeta.mojang.com/v1/packages/59c7719b82023e5b71e334a69d3c13137014a2bc/a1.2.3_04.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2010-11-25T22:00:00+00:00"
+	},
+	{
+		"id":"a1.2.3_02",
+		"type":"old_alpha",
+		"url":"https://launchermeta.mojang.com/v1/packages/b22eadebb4bfb63cdc42e9811da8fd2234eaaa6e/a1.2.3_02.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2010-11-24T22:00:00+00:00"
+	},
+	{
+		"id":"a1.2.3_01",
+		"type":"old_alpha",
+		"url":"https://launchermeta.mojang.com/v1/packages/da7b740e70324be7e189c65f1f834f0a30c0588f/a1.2.3_01.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2010-11-23T22:00:01+00:00"
+	},
+	{
+		"id":"a1.2.3",
+		"type":"old_alpha",
+		"url":"https://launchermeta.mojang.com/v1/packages/6c059b7bdb14b29c8d5cca2b250472962fe3b0b1/a1.2.3.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2010-11-23T22:00:00+00:00"
+	},
+	{
+		"id":"a1.2.2b",
+		"type":"old_alpha",
+		"url":"https://launchermeta.mojang.com/v1/packages/2aba3e114e0a7190ea3dff1553787d5044e1c420/a1.2.2b.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2010-11-09T22:00:01+00:00"
+	},
+	{
+		"id":"a1.2.2a",
+		"type":"old_alpha",
+		"url":"https://launchermeta.mojang.com/v1/packages/03cde2f4856b59adab177ab10673b6d951bfd7c8/a1.2.2a.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2010-11-09T22:00:00+00:00"
+	},
+	{
+		"id":"a1.2.1_01",
+		"type":"old_alpha",
+		"url":"https://launchermeta.mojang.com/v1/packages/f20e3a7757a92e1d429dcf45fa545cc84a9699da/a1.2.1_01.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2010-11-04T22:00:01+00:00"
+	},
+	{
+		"id":"a1.2.1",
+		"type":"old_alpha",
+		"url":"https://launchermeta.mojang.com/v1/packages/05773451d61d92c0e8fa73cdb2e4c0fd23c4e1d4/a1.2.1.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2010-11-04T22:00:00+00:00"
+	},
+	{
+		"id":"a1.2.0_02",
+		"type":"old_alpha",
+		"url":"https://launchermeta.mojang.com/v1/packages/57ff567f186230b303af60241fbce283dad44bb2/a1.2.0_02.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2010-11-03T22:00:00+00:00"
+	},
+	{
+		"id":"a1.2.0_01",
+		"type":"old_alpha",
+		"url":"https://launchermeta.mojang.com/v1/packages/bed2a50ed2f9ce6a920394916ea66ce41b09b166/a1.2.0_01.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2010-10-30T22:00:00+00:00"
+	},
+	{
+		"id":"a1.2.0",
+		"type":"old_alpha",
+		"url":"https://launchermeta.mojang.com/v1/packages/abc94a77d94b94042d01476ee0c2e4b8c4eb08e1/a1.2.0.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2010-10-29T22:00:00+00:00"
+	},
+	{
+		"id":"a1.1.2_01",
+		"type":"old_alpha",
+		"url":"https://launchermeta.mojang.com/v1/packages/8730e3503e352fc03cca8a6c6ee614a17d66d8c6/a1.1.2_01.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2010-09-22T22:00:00+00:00",
+		"resources": "file:///D:/Stuff/git/MCPHackers.github.io/versionsV2/a1.1.2_01.zip"
+	},
+	{
+		"id":"a1.1.2",
+		"type":"old_alpha",
+		"url":"https://launchermeta.mojang.com/v1/packages/b515b79ecaba79a0b5a4a5a03bf2b077f6c53334/a1.1.2.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2010-09-19T22:00:00+00:00"
+	},
+	{
+		"id":"a1.1.0",
+		"type":"old_alpha",
+		"url":"https://launchermeta.mojang.com/v1/packages/6054271bd0a275ed3030be97b6e9f81977abdf5d/a1.1.0.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2010-09-12T22:00:00+00:00"
+	},
+	{
+		"id":"a1.0.17_04",
+		"type":"old_alpha",
+		"url":"https://launchermeta.mojang.com/v1/packages/fc2b6231e945558df29b6ed12522758860c511ab/a1.0.17_04.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2010-08-22T22:00:00+00:00"
+	},
+	{
+		"id":"a1.0.17_02",
+		"type":"old_alpha",
+		"url":"https://launchermeta.mojang.com/v1/packages/a261074f38c555d9770ba7f1a4cae9351af19d73/a1.0.17_02.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2010-08-19T22:00:00+00:00"
+	},
+	{
+		"id":"a1.0.16",
+		"type":"old_alpha",
+		"url":"https://launchermeta.mojang.com/v1/packages/205ed38d0d1e135b467702a746e64ed2623b4679/a1.0.16.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2010-08-11T22:00:00+00:00"
+	},
+	{
+		"id":"a1.0.15",
+		"type":"old_alpha",
+		"url":"https://launchermeta.mojang.com/v1/packages/05a0fdef0a0d62273290eb1c145ad10501941f75/a1.0.15.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2010-08-03T22:00:00+00:00"
+	},
+	{
+		"id":"a1.0.14",
+		"type":"old_alpha",
+		"url":"https://launchermeta.mojang.com/v1/packages/5af21fa2467997914940beb39279f0d545a48335/a1.0.14.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2010-07-29T22:00:00+00:00"
+	},
+	{
+		"id":"a1.0.11",
+		"type":"old_alpha",
+		"url":"https://launchermeta.mojang.com/v1/packages/b98235f44e6422741df02c781cf0016fce1c4a84/a1.0.11.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2010-07-22T22:00:00+00:00"
+	},
+	{
+		"id":"a1.0.5_01",
+		"type":"old_alpha",
+		"url":"https://launchermeta.mojang.com/v1/packages/4adaca651189d96ea9d7aa031038ab7b7d3fd807/a1.0.5_01.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2010-07-12T22:00:00+00:00"
+	},
+	{
+		"id":"a1.0.4",
+		"type":"old_alpha",
+		"url":"https://launchermeta.mojang.com/v1/packages/16c818f17af9e8560589f9e3cae57f0931011c25/a1.0.4.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2010-07-08T22:00:00+00:00"
+	},
+	{
+		"id":"inf-20100618",
+		"type":"old_alpha",
+		"url":"https://launchermeta.mojang.com/v1/packages/51a5c512af384d3d2a79a3efb93f7d4b9a1c6ec2/inf-20100618.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2010-06-15T22:00:00+00:00"
+	},
+	{
+		"id":"c0.30_01c",
+		"type":"old_alpha",
+		"url":"https://launchermeta.mojang.com/v1/packages/9392d3f635770ac4dfd3f8c9444f319b00b08945/c0.30_01c.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2009-12-21T22:00:00+00:00"
+	},
+	{
+		"id":"c0.0.13a",
+		"type":"old_alpha",
+		"url":"https://launchermeta.mojang.com/v1/packages/5ef11c52e02c27f40924ea0c323efee716de568d/c0.0.13a.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2009-05-30T22:00:00+00:00"
+	},
+	{
+		"id":"c0.0.13a_03",
+		"type":"old_alpha",
+		"url":"https://launchermeta.mojang.com/v1/packages/21122dee2365147033ef6214702098cf7b2549bd/c0.0.13a_03.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2009-05-21T22:00:00+00:00"
+	},
+	{
+		"id":"c0.0.11a",
+		"type":"old_alpha",
+		"url":"https://launchermeta.mojang.com/v1/packages/2339fd5639204675b9f18dff6055dae83fc91c7e/c0.0.11a.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2009-05-16T22:00:00+00:00"
+	},
+	{
+		"id":"rd-161348",
+		"type":"old_alpha",
+		"url":"https://launchermeta.mojang.com/v1/packages/f22a3882d124ef4468f6eb50b12836c53286e18a/rd-161348.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2009-05-16T11:48:00+00:00"
+	},
+	{
+		"id":"rd-160052",
+		"type":"old_alpha",
+		"url":"https://launchermeta.mojang.com/v1/packages/0cac2ceab812568826c6e5aeb4cf980397550479/rd-160052.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2009-05-15T22:52:00+00:00"
+	},
+	{
+		"id":"rd-20090515",
+		"type":"old_alpha",
+		"url":"https://launchermeta.mojang.com/v1/packages/a3165080e2b0bf20519eac5f55ee841f3491e277/rd-20090515.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2009-05-14T22:00:00+00:00"
+	},
+	{
+		"id":"rd-132328",
+		"type":"old_alpha",
+		"url":"https://launchermeta.mojang.com/v1/packages/4ec49ff663f96e78a5cf0d9538adb9d1358fc485/rd-132328.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2009-05-13T21:28:00+00:00"
+	},
+	{
+		"id":"rd-132211",
+		"type":"old_alpha",
+		"url":"https://launchermeta.mojang.com/v1/packages/d090f5d3766a28425316473d9ab6c37234d48b02/rd-132211.json",
+		"time":"2022-03-10T09:51:38+00:00",
+		"releaseTime":"2009-05-13T20:11:00+00:00"
+	}
+]

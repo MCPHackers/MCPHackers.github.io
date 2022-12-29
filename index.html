@@ -5,12 +5,13 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link rel="icon" type="image/icon type" href="images/icon.png">
 		<link rel="stylesheet" type="text/css" href="style.css"/>
+		<link rel="preload" type="image/svg+xml" as="image" href="images/button_active.svg"/>
 	</head>
 	<script src="script/splashes.js">
 	</script>
-	<body class="dirt" onload="splash()">
+	<body class="dirt" onload="splash(false)">
 		<div class="menucontainer grid" style="height: calc(var(--local-scale) * 80px);">
-			<img class="center" src="images/logo.svg" style="width: calc(var(--local-scale) * 140px);" alt="MCP">
+			<img class="center" onclick="splash(true)" src="images/logo.svg" style="width: calc(var(--local-scale) * 140px);" alt="MCP">
 			<div class="mcsplash center flex">
 				<div class="mc" id="randomsplash"><br></div>
 			</div>
@@ -21,6 +22,10 @@
 			<a href="https://github.com/MCPHackers/RetroMCP-Java/wiki" class="mcbutton">Check the wiki</a>
 			<a href="versions.html" class="mcbutton">Version mappings</a>
 			<a href="https://github.com/MCPHackers/RetroMCP-Java/releases/latest" class="mcbutton">Download latest</a>
+		</div>
+		<h2 class="center">MCPHackers' LaunchWrapper for legacy Minecraft</h2>
+		<div class="menucontainer">
+			<a href="https://github.com/MCPHackers/LaunchWrapper" class="mcbutton">Github page</a>
 		</div>
 		<h2 class="center">RetroDebugInjector (RDI) is a Java bytecode manipulation utility</h2>
 		<div class="menucontainer">
