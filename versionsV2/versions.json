@@ -1,477 +1,476 @@
 [
-	{
-		"id":"1.5.2",
-		"type":"release",
-		"url":"https://launchermeta.mojang.com/v1/packages/924a2dcd8bdc31f8e9d36229811c298b3537bbc7/1.5.2.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2013-04-25T15:45:00+00:00",
-		"resources": "file:///D:/Stuff/git/MCPHackers.github.io/versions/1.5.2.zip"
-	},
-	{
-		"id":"1.2.5",
-		"type":"release",
-		"url":"https://launchermeta.mojang.com/v1/packages/5158765caf1ca14958cb6c45d52c8e09ed9b046c/1.2.5.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2012-03-29T22:00:00+00:00",
-		"resources": "file:///D:/Stuff/git/MCPHackers.github.io/versions/1.2.5.zip"
-	},
-	{
-		"id":"1.2.4",
-		"type":"release",
-		"url":"https://launchermeta.mojang.com/v1/packages/69a67fcf11ed1298c6b43a00d64461908a318749/1.2.4.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2012-03-21T22:00:00+00:00",
-		"resources": "file:///D:/Stuff/git/MCPHackers.github.io/versions/1.2.4.zip"
-	},
-	{
-		"id":"1.2.3",
-		"type":"release",
-		"url":"https://launchermeta.mojang.com/v1/packages/2f7eaec33e3017a413c677eefa59df2e5919e536/1.2.3.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2012-03-01T22:00:00+00:00",
-		"resources": "file:///D:/Stuff/git/MCPHackers.github.io/versions/1.2.3.zip"
-	},
-	{
-		"id":"1.1",
-		"type":"release",
-		"url":"https://launchermeta.mojang.com/v1/packages/c0cb9368dbdbb1e8dbcb9363a28d8da74cf6fc5e/1.1.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2012-01-11T22:00:00+00:00"
-	},
-	{
-		"id":"1.0",
-		"type":"release",
-		"url":"https://launchermeta.mojang.com/v1/packages/75062586b830dd5160f13f1c9130eb365e01f1b9/1.0.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2011-11-17T22:00:00+00:00"
-	},
-	{
-		"id":"b1.8.1",
-		"type":"old_beta",
-		"url":"https://launchermeta.mojang.com/v1/packages/440e3b845c3991492a3d0c5f0ccfda78ab90d9b6/b1.8.1.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2011-09-18T22:00:00+00:00",
-		"resources": "D:/Stuff/git/MCPHackers.github.io/versions/b1.8.zip"
-	},
-	{
-		"id":"b1.8",
-		"type":"old_beta",
-		"url":"https://launchermeta.mojang.com/v1/packages/e5b20b1a15daa60effefd86da94b118086214e8b/b1.8.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2011-09-14T22:00:00+00:00"
-	},
-	{
-		"id":"b1.7.3",
-		"type":"old_beta",
-		"url":"https://launchermeta.mojang.com/v1/packages/44f6969326bd45aa00dcd3c4ca3a7c05ebb24c04/b1.7.3.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2011-07-07T22:00:00+00:00"
-	},
-	{
-		"id":"b1.7.2",
-		"type":"old_beta",
-		"url":"https://launchermeta.mojang.com/v1/packages/00f5aff7cbf6ce109ecf2c8e1a5dc1bcbadb5680/b1.7.2.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2011-06-30T22:00:00+00:00"
-	},
-	{
-		"id":"b1.7",
-		"type":"old_beta",
-		"url":"https://launchermeta.mojang.com/v1/packages/f3a725f9f27e90f2a2622ad82c182c1a1178572f/b1.7.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2011-06-29T22:00:00+00:00"
-	},
-	{
-		"id":"b1.6.6",
-		"type":"old_beta",
-		"url":"https://launchermeta.mojang.com/v1/packages/16cb1aa6f7c9c3953fa2f53abd8f57558efd3e71/b1.6.6.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2011-05-30T22:00:00+00:00"
-	},
-	{
-		"id":"b1.6.5",
-		"type":"old_beta",
-		"url":"https://launchermeta.mojang.com/v1/packages/eae37053bb49092ce93d40e762f4c3a573ee2880/b1.6.5.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2011-05-27T22:00:00+00:00"
-	},
-	{
-		"id":"b1.6.4",
-		"type":"old_beta",
-		"url":"https://launchermeta.mojang.com/v1/packages/ac98b5e9e44038f3a311736111c16fc30006e1fd/b1.6.4.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2011-05-25T22:00:04+00:00"
-	},
-	{
-		"id":"b1.6.3",
-		"type":"old_beta",
-		"url":"https://launchermeta.mojang.com/v1/packages/87785f4386cd308defcc876fb6d62bf3681be6bc/b1.6.3.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2011-05-25T22:00:03+00:00"
-	},
-	{
-		"id":"b1.6.2",
-		"type":"old_beta",
-		"url":"https://launchermeta.mojang.com/v1/packages/23f8e2f1634d1db8875521d8e0d3fb5340623fd2/b1.6.2.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2011-05-25T22:00:02+00:00"
-	},
-	{
-		"id":"b1.6.1",
-		"type":"old_beta",
-		"url":"https://launchermeta.mojang.com/v1/packages/1958ecd7b20c5a2849b4e1e7a9921891e49178da/b1.6.1.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2011-05-25T22:00:01+00:00"
-	},
-	{
-		"id":"b1.6",
-		"type":"old_beta",
-		"url":"https://launchermeta.mojang.com/v1/packages/7442961ad4f23c60787ab2a3c97a5037c40a92f2/b1.6.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2011-05-25T22:00:00+00:00"
-	},
-	{
-		"id":"b1.5_01",
-		"type":"old_beta",
-		"url":"https://launchermeta.mojang.com/v1/packages/0f0b24408e6ca445e9c4a3ea2a676f71f96f5d35/b1.5_01.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2011-04-19T22:00:00+00:00"
-	},
-	{
-		"id":"b1.5",
-		"type":"old_beta",
-		"url":"https://launchermeta.mojang.com/v1/packages/3fa704bd73444368f04351d6d4add8a3eead9b4e/b1.5.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2011-04-18T22:00:00+00:00"
-	},
-	{
-		"id":"b1.4_01",
-		"type":"old_beta",
-		"url":"https://launchermeta.mojang.com/v1/packages/d47fcb0e4d9b7169fbb26c0bce56ed2082c3bb1d/b1.4_01.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2011-04-04T22:00:00+00:00"
-	},
-	{
-		"id":"b1.4",
-		"type":"old_beta",
-		"url":"https://launchermeta.mojang.com/v1/packages/2cf34d1caca87b68ee104e348480e38f45eb7621/b1.4.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2011-03-30T22:00:00+00:00"
-	},
-	{
-		"id":"b1.3_01",
-		"type":"old_beta",
-		"url":"https://launchermeta.mojang.com/v1/packages/a0e0a27d8f7d4c23b6441e473a3e44b45a958284/b1.3_01.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2011-02-22T22:00:00+00:00"
-	},
-	{
-		"id":"b1.3b",
-		"type":"old_beta",
-		"url":"https://launchermeta.mojang.com/v1/packages/16ffb877701f7b41c6f27fb09def7a8e5d667df1/b1.3b.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2011-02-21T22:00:00+00:00"
-	},
-	{
-		"id":"b1.2_02",
-		"type":"old_beta",
-		"url":"https://launchermeta.mojang.com/v1/packages/5352763f0a944e7940e718fd66aae03bc57dc2ef/b1.2_02.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2011-01-20T22:00:00+00:00"
-	},
-	{
-		"id":"b1.2_01",
-		"type":"old_beta",
-		"url":"https://launchermeta.mojang.com/v1/packages/0fea71dc8c4199581753d8ecb3ae69039a302340/b1.2_01.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2011-01-13T22:00:00+00:00"
-	},
-	{
-		"id":"b1.2",
-		"type":"old_beta",
-		"url":"https://launchermeta.mojang.com/v1/packages/67bcdada56d272e4508ecb8e35827ffa4a4c18d1/b1.2.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2011-01-12T22:00:00+00:00"
-	},
-	{
-		"id":"b1.1_02",
-		"type":"old_beta",
-		"url":"https://launchermeta.mojang.com/v1/packages/01042e0ecdd894894ebc6f45300ae306010c154f/b1.1_02.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2010-12-21T22:00:01+00:00"
-	},
-	{
-		"id":"b1.1_01",
-		"type":"old_beta",
-		"url":"https://launchermeta.mojang.com/v1/packages/1bab185d888a549a3fcb4e528557caa3e7884290/b1.1_01.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2010-12-21T22:00:00+00:00"
-	},
-	{
-		"id":"b1.0.2",
-		"type":"old_beta",
-		"url":"https://launchermeta.mojang.com/v1/packages/e0a317286013bdd8e6de6da5e709422af61597d8/b1.0.2.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2010-12-20T22:00:00+00:00"
-	},
-	{
-		"id":"b1.0_01",
-		"type":"old_beta",
-		"url":"https://launchermeta.mojang.com/v1/packages/d3eec813918ee87826f7bca65dd1558b33841798/b1.0_01.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2010-12-19T22:00:01+00:00"
-	},
-	{
-		"id":"b1.0",
-		"type":"old_beta",
-		"url":"https://launchermeta.mojang.com/v1/packages/e5348beaf3d3c366c522b1c70044f8b7be168b02/b1.0.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2010-12-19T22:00:00+00:00"
-	},
-	{
-		"id":"a1.2.6",
-		"type":"old_alpha",
-		"url":"https://launchermeta.mojang.com/v1/packages/1c888e4d8aed380db25aeb3835f5918297bb5e3a/a1.2.6.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2010-12-02T22:00:00+00:00"
-	},
-	{
-		"id":"a1.2.5",
-		"type":"old_alpha",
-		"url":"https://launchermeta.mojang.com/v1/packages/a925f00e3f7f1bde95240152bef4d15f36971394/a1.2.5.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2010-11-30T22:00:00+00:00"
-	},
-	{
-		"id":"a1.2.4_01",
-		"type":"old_alpha",
-		"url":"https://launchermeta.mojang.com/v1/packages/64d6a749cb24ddd8a27546f9555ac7c2853c5943/a1.2.4_01.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2010-11-29T22:00:00+00:00"
-	},
-	{
-		"id":"a1.2.3_04",
-		"type":"old_alpha",
-		"url":"https://launchermeta.mojang.com/v1/packages/59c7719b82023e5b71e334a69d3c13137014a2bc/a1.2.3_04.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2010-11-25T22:00:00+00:00"
-	},
-	{
-		"id":"a1.2.3_02",
-		"type":"old_alpha",
-		"url":"https://launchermeta.mojang.com/v1/packages/b22eadebb4bfb63cdc42e9811da8fd2234eaaa6e/a1.2.3_02.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2010-11-24T22:00:00+00:00"
-	},
-	{
-		"id":"a1.2.3_01",
-		"type":"old_alpha",
-		"url":"https://launchermeta.mojang.com/v1/packages/da7b740e70324be7e189c65f1f834f0a30c0588f/a1.2.3_01.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2010-11-23T22:00:01+00:00"
-	},
-	{
-		"id":"a1.2.3",
-		"type":"old_alpha",
-		"url":"https://launchermeta.mojang.com/v1/packages/6c059b7bdb14b29c8d5cca2b250472962fe3b0b1/a1.2.3.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2010-11-23T22:00:00+00:00"
-	},
-	{
-		"id":"a1.2.2b",
-		"type":"old_alpha",
-		"url":"https://launchermeta.mojang.com/v1/packages/2aba3e114e0a7190ea3dff1553787d5044e1c420/a1.2.2b.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2010-11-09T22:00:01+00:00"
-	},
-	{
-		"id":"a1.2.2a",
-		"type":"old_alpha",
-		"url":"https://launchermeta.mojang.com/v1/packages/03cde2f4856b59adab177ab10673b6d951bfd7c8/a1.2.2a.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2010-11-09T22:00:00+00:00"
-	},
-	{
-		"id":"a1.2.1_01",
-		"type":"old_alpha",
-		"url":"https://launchermeta.mojang.com/v1/packages/f20e3a7757a92e1d429dcf45fa545cc84a9699da/a1.2.1_01.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2010-11-04T22:00:01+00:00"
-	},
-	{
-		"id":"a1.2.1",
-		"type":"old_alpha",
-		"url":"https://launchermeta.mojang.com/v1/packages/05773451d61d92c0e8fa73cdb2e4c0fd23c4e1d4/a1.2.1.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2010-11-04T22:00:00+00:00"
-	},
-	{
-		"id":"a1.2.0_02",
-		"type":"old_alpha",
-		"url":"https://launchermeta.mojang.com/v1/packages/57ff567f186230b303af60241fbce283dad44bb2/a1.2.0_02.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2010-11-03T22:00:00+00:00"
-	},
-	{
-		"id":"a1.2.0_01",
-		"type":"old_alpha",
-		"url":"https://launchermeta.mojang.com/v1/packages/bed2a50ed2f9ce6a920394916ea66ce41b09b166/a1.2.0_01.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2010-10-30T22:00:00+00:00"
-	},
-	{
-		"id":"a1.2.0",
-		"type":"old_alpha",
-		"url":"https://launchermeta.mojang.com/v1/packages/abc94a77d94b94042d01476ee0c2e4b8c4eb08e1/a1.2.0.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2010-10-29T22:00:00+00:00"
-	},
-	{
-		"id":"a1.1.2_01",
-		"type":"old_alpha",
-		"url":"https://launchermeta.mojang.com/v1/packages/8730e3503e352fc03cca8a6c6ee614a17d66d8c6/a1.1.2_01.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2010-09-22T22:00:00+00:00",
-		"resources": "file:///D:/Stuff/git/MCPHackers.github.io/versionsV2/a1.1.2_01.zip"
-	},
-	{
-		"id":"a1.1.2",
-		"type":"old_alpha",
-		"url":"https://launchermeta.mojang.com/v1/packages/b515b79ecaba79a0b5a4a5a03bf2b077f6c53334/a1.1.2.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2010-09-19T22:00:00+00:00"
-	},
-	{
-		"id":"a1.1.0",
-		"type":"old_alpha",
-		"url":"https://launchermeta.mojang.com/v1/packages/6054271bd0a275ed3030be97b6e9f81977abdf5d/a1.1.0.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2010-09-12T22:00:00+00:00"
-	},
-	{
-		"id":"a1.0.17_04",
-		"type":"old_alpha",
-		"url":"https://launchermeta.mojang.com/v1/packages/fc2b6231e945558df29b6ed12522758860c511ab/a1.0.17_04.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2010-08-22T22:00:00+00:00"
-	},
-	{
-		"id":"a1.0.17_02",
-		"type":"old_alpha",
-		"url":"https://launchermeta.mojang.com/v1/packages/a261074f38c555d9770ba7f1a4cae9351af19d73/a1.0.17_02.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2010-08-19T22:00:00+00:00"
-	},
-	{
-		"id":"a1.0.16",
-		"type":"old_alpha",
-		"url":"https://launchermeta.mojang.com/v1/packages/205ed38d0d1e135b467702a746e64ed2623b4679/a1.0.16.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2010-08-11T22:00:00+00:00"
-	},
-	{
-		"id":"a1.0.15",
-		"type":"old_alpha",
-		"url":"https://launchermeta.mojang.com/v1/packages/05a0fdef0a0d62273290eb1c145ad10501941f75/a1.0.15.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2010-08-03T22:00:00+00:00"
-	},
-	{
-		"id":"a1.0.14",
-		"type":"old_alpha",
-		"url":"https://launchermeta.mojang.com/v1/packages/5af21fa2467997914940beb39279f0d545a48335/a1.0.14.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2010-07-29T22:00:00+00:00"
-	},
-	{
-		"id":"a1.0.11",
-		"type":"old_alpha",
-		"url":"https://launchermeta.mojang.com/v1/packages/b98235f44e6422741df02c781cf0016fce1c4a84/a1.0.11.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2010-07-22T22:00:00+00:00"
-	},
-	{
-		"id":"a1.0.5_01",
-		"type":"old_alpha",
-		"url":"https://launchermeta.mojang.com/v1/packages/4adaca651189d96ea9d7aa031038ab7b7d3fd807/a1.0.5_01.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2010-07-12T22:00:00+00:00"
-	},
-	{
-		"id":"a1.0.4",
-		"type":"old_alpha",
-		"url":"https://launchermeta.mojang.com/v1/packages/16c818f17af9e8560589f9e3cae57f0931011c25/a1.0.4.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2010-07-08T22:00:00+00:00"
-	},
-	{
-		"id":"inf-20100618",
-		"type":"old_alpha",
-		"url":"https://launchermeta.mojang.com/v1/packages/51a5c512af384d3d2a79a3efb93f7d4b9a1c6ec2/inf-20100618.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2010-06-15T22:00:00+00:00"
-	},
-	{
-		"id":"c0.30_01c",
-		"type":"old_alpha",
-		"url":"https://launchermeta.mojang.com/v1/packages/9392d3f635770ac4dfd3f8c9444f319b00b08945/c0.30_01c.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2009-12-21T22:00:00+00:00"
-	},
-	{
-		"id":"c0.0.13a",
-		"type":"old_alpha",
-		"url":"https://launchermeta.mojang.com/v1/packages/5ef11c52e02c27f40924ea0c323efee716de568d/c0.0.13a.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2009-05-30T22:00:00+00:00"
-	},
-	{
-		"id":"c0.0.13a_03",
-		"type":"old_alpha",
-		"url":"https://launchermeta.mojang.com/v1/packages/21122dee2365147033ef6214702098cf7b2549bd/c0.0.13a_03.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2009-05-21T22:00:00+00:00"
-	},
-	{
-		"id":"c0.0.11a",
-		"type":"old_alpha",
-		"url":"https://launchermeta.mojang.com/v1/packages/2339fd5639204675b9f18dff6055dae83fc91c7e/c0.0.11a.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2009-05-16T22:00:00+00:00"
-	},
-	{
-		"id":"rd-161348",
-		"type":"old_alpha",
-		"url":"https://launchermeta.mojang.com/v1/packages/f22a3882d124ef4468f6eb50b12836c53286e18a/rd-161348.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2009-05-16T11:48:00+00:00"
-	},
-	{
-		"id":"rd-160052",
-		"type":"old_alpha",
-		"url":"https://launchermeta.mojang.com/v1/packages/0cac2ceab812568826c6e5aeb4cf980397550479/rd-160052.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2009-05-15T22:52:00+00:00"
-	},
-	{
-		"id":"rd-20090515",
-		"type":"old_alpha",
-		"url":"https://launchermeta.mojang.com/v1/packages/a3165080e2b0bf20519eac5f55ee841f3491e277/rd-20090515.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2009-05-14T22:00:00+00:00"
-	},
-	{
-		"id":"rd-132328",
-		"type":"old_alpha",
-		"url":"https://launchermeta.mojang.com/v1/packages/4ec49ff663f96e78a5cf0d9538adb9d1358fc485/rd-132328.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2009-05-13T21:28:00+00:00"
-	},
-	{
-		"id":"rd-132211",
-		"type":"old_alpha",
-		"url":"https://launchermeta.mojang.com/v1/packages/d090f5d3766a28425316473d9ab6c37234d48b02/rd-132211.json",
-		"time":"2022-03-10T09:51:38+00:00",
-		"releaseTime":"2009-05-13T20:11:00+00:00"
-	}
+    {
+        "id": "1.5.2",
+        "releaseTime": "2013-04-25T15:45:00+00:00",
+        "resources": "file:///D:/Stuff/git/MCPHackers.github.io/versions/1.5.2.zip",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "release",
+        "url": "https://mcphackers.github.io/jsons/1.5.2.json"
+    },
+    {
+        "id": "1.2.5",
+        "releaseTime": "2012-03-29T22:00:00+00:00",
+        "resources": "file:///D:/Stuff/git/MCPHackers.github.io/versions/1.2.5.zip",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "release",
+        "url": "https://mcphackers.github.io/jsons/1.2.5.json"
+    },
+    {
+        "id": "1.2.4",
+        "releaseTime": "2012-03-21T22:00:00+00:00",
+        "resources": "file:///D:/Stuff/git/MCPHackers.github.io/versions/1.2.4.zip",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "release",
+        "url": "https://mcphackers.github.io/jsons/1.2.4.json"
+    },
+    {
+        "id": "1.2.3",
+        "releaseTime": "2012-03-01T22:00:00+00:00",
+        "resources": "file:///D:/Stuff/git/MCPHackers.github.io/versions/1.2.3.zip",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "release",
+        "url": "https://mcphackers.github.io/jsons/1.2.3.json"
+    },
+    {
+        "id": "1.1",
+        "releaseTime": "2012-01-11T22:00:00+00:00",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "release",
+        "url": "https://mcphackers.github.io/jsons/1.1.json"
+    },
+    {
+        "id": "1.0",
+        "releaseTime": "2011-11-17T22:00:00+00:00",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "release",
+        "url": "https://mcphackers.github.io/jsons/1.0.json"
+    },
+    {
+        "id": "b1.8.1",
+        "releaseTime": "2011-09-18T22:00:00+00:00",
+        "resources": "D:/Stuff/git/MCPHackers.github.io/versions/b1.8.zip",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "old_beta",
+        "url": "https://mcphackers.github.io/jsons/b1.8.1.json"
+    },
+    {
+        "id": "b1.8",
+        "releaseTime": "2011-09-14T22:00:00+00:00",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "old_beta",
+        "url": "https://mcphackers.github.io/jsons/b1.8.json"
+    },
+    {
+        "id": "b1.7.3",
+        "releaseTime": "2011-07-07T22:00:00+00:00",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "old_beta",
+        "url": "https://mcphackers.github.io/jsons/b1.7.3.json"
+    },
+    {
+        "id": "b1.7.2",
+        "releaseTime": "2011-06-30T22:00:00+00:00",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "old_beta",
+        "url": "https://mcphackers.github.io/jsons/b1.7.2.json"
+    },
+    {
+        "id": "b1.7",
+        "releaseTime": "2011-06-29T22:00:00+00:00",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "old_beta",
+        "url": "https://mcphackers.github.io/jsons/b1.7.json"
+    },
+    {
+        "id": "b1.6.6",
+        "releaseTime": "2011-05-30T22:00:00+00:00",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "old_beta",
+        "url": "https://mcphackers.github.io/jsons/b1.6.6.json"
+    },
+    {
+        "id": "b1.6.5",
+        "releaseTime": "2011-05-27T22:00:00+00:00",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "old_beta",
+        "url": "https://mcphackers.github.io/jsons/b1.6.5.json"
+    },
+    {
+        "id": "b1.6.4",
+        "releaseTime": "2011-05-25T22:00:04+00:00",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "old_beta",
+        "url": "https://mcphackers.github.io/jsons/b1.6.4.json"
+    },
+    {
+        "id": "b1.6.3",
+        "releaseTime": "2011-05-25T22:00:03+00:00",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "old_beta",
+        "url": "https://mcphackers.github.io/jsons/b1.6.3.json"
+    },
+    {
+        "id": "b1.6.2",
+        "releaseTime": "2011-05-25T22:00:02+00:00",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "old_beta",
+        "url": "https://mcphackers.github.io/jsons/b1.6.2.json"
+    },
+    {
+        "id": "b1.6.1",
+        "releaseTime": "2011-05-25T22:00:01+00:00",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "old_beta",
+        "url": "https://mcphackers.github.io/jsons/b1.6.1.json"
+    },
+    {
+        "id": "b1.6",
+        "releaseTime": "2011-05-25T22:00:00+00:00",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "old_beta",
+        "url": "https://mcphackers.github.io/jsons/b1.6.json"
+    },
+    {
+        "id": "b1.5_01",
+        "releaseTime": "2011-04-19T22:00:00+00:00",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "old_beta",
+        "url": "https://mcphackers.github.io/jsons/b1.5_01.json"
+    },
+    {
+        "id": "b1.5",
+        "releaseTime": "2011-04-18T22:00:00+00:00",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "old_beta",
+        "url": "https://mcphackers.github.io/jsons/b1.5.json"
+    },
+    {
+        "id": "b1.4_01",
+        "releaseTime": "2011-04-04T22:00:00+00:00",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "old_beta",
+        "url": "https://mcphackers.github.io/jsons/b1.4_01.json"
+    },
+    {
+        "id": "b1.4",
+        "releaseTime": "2011-03-30T22:00:00+00:00",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "old_beta",
+        "url": "https://mcphackers.github.io/jsons/b1.4.json"
+    },
+    {
+        "id": "b1.3_01",
+        "releaseTime": "2011-02-22T22:00:00+00:00",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "old_beta",
+        "url": "https://mcphackers.github.io/jsons/b1.3_01.json"
+    },
+    {
+        "id": "b1.3b",
+        "releaseTime": "2011-02-21T22:00:00+00:00",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "old_beta",
+        "url": "https://mcphackers.github.io/jsons/b1.3b.json"
+    },
+    {
+        "id": "b1.2_02",
+        "releaseTime": "2011-01-20T22:00:00+00:00",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "old_beta",
+        "url": "https://mcphackers.github.io/jsons/b1.2_02.json"
+    },
+    {
+        "id": "b1.2_01",
+        "releaseTime": "2011-01-13T22:00:00+00:00",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "old_beta",
+        "url": "https://mcphackers.github.io/jsons/b1.2_01.json"
+    },
+    {
+        "id": "b1.2",
+        "releaseTime": "2011-01-12T22:00:00+00:00",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "old_beta",
+        "url": "https://mcphackers.github.io/jsons/b1.2.json"
+    },
+    {
+        "id": "b1.1_02",
+        "releaseTime": "2010-12-21T22:00:01+00:00",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "old_beta",
+        "url": "https://mcphackers.github.io/jsons/b1.1_02.json"
+    },
+    {
+        "id": "b1.1_01",
+        "releaseTime": "2010-12-21T22:00:00+00:00",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "old_beta",
+        "url": "https://mcphackers.github.io/jsons/b1.1_01.json"
+    },
+    {
+        "id": "b1.0.2",
+        "releaseTime": "2010-12-20T22:00:00+00:00",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "old_beta",
+        "url": "https://mcphackers.github.io/jsons/b1.0.2.json"
+    },
+    {
+        "id": "b1.0_01",
+        "releaseTime": "2010-12-19T22:00:01+00:00",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "old_beta",
+        "url": "https://mcphackers.github.io/jsons/b1.0_01.json"
+    },
+    {
+        "id": "b1.0",
+        "releaseTime": "2010-12-19T22:00:00+00:00",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "old_beta",
+        "url": "https://mcphackers.github.io/jsons/b1.0.json"
+    },
+    {
+        "id": "a1.2.6",
+        "releaseTime": "2010-12-02T22:00:00+00:00",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "old_alpha",
+        "url": "https://mcphackers.github.io/jsons/a1.2.6.json"
+    },
+    {
+        "id": "a1.2.5",
+        "releaseTime": "2010-11-30T22:00:00+00:00",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "old_alpha",
+        "url": "https://mcphackers.github.io/jsons/a1.2.5.json"
+    },
+    {
+        "id": "a1.2.4_01",
+        "releaseTime": "2010-11-29T22:00:00+00:00",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "old_alpha",
+        "url": "https://mcphackers.github.io/jsons/a1.2.4_01.json"
+    },
+    {
+        "id": "a1.2.3_04",
+        "releaseTime": "2010-11-25T22:00:00+00:00",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "old_alpha",
+        "url": "https://mcphackers.github.io/jsons/a1.2.3_04.json"
+    },
+    {
+        "id": "a1.2.3_02",
+        "releaseTime": "2010-11-24T22:00:00+00:00",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "old_alpha",
+        "url": "https://mcphackers.github.io/jsons/a1.2.3_02.json"
+    },
+    {
+        "id": "a1.2.3_01",
+        "releaseTime": "2010-11-23T22:00:01+00:00",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "old_alpha",
+        "url": "https://mcphackers.github.io/jsons/a1.2.3_01.json"
+    },
+    {
+        "id": "a1.2.3",
+        "releaseTime": "2010-11-23T22:00:00+00:00",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "old_alpha",
+        "url": "https://mcphackers.github.io/jsons/a1.2.3.json"
+    },
+    {
+        "id": "a1.2.2b",
+        "releaseTime": "2010-11-09T22:00:01+00:00",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "old_alpha",
+        "url": "https://mcphackers.github.io/jsons/a1.2.2b.json"
+    },
+    {
+        "id": "a1.2.2a",
+        "releaseTime": "2010-11-09T22:00:00+00:00",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "old_alpha",
+        "url": "https://mcphackers.github.io/jsons/a1.2.2a.json"
+    },
+    {
+        "id": "a1.2.1_01",
+        "releaseTime": "2010-11-04T22:00:01+00:00",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "old_alpha",
+        "url": "https://mcphackers.github.io/jsons/a1.2.1_01.json"
+    },
+    {
+        "id": "a1.2.1",
+        "releaseTime": "2010-11-04T22:00:00+00:00",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "old_alpha",
+        "url": "https://mcphackers.github.io/jsons/a1.2.1.json"
+    },
+    {
+        "id": "a1.2.0_02",
+        "releaseTime": "2010-11-03T22:00:00+00:00",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "old_alpha",
+        "url": "https://mcphackers.github.io/jsons/a1.2.0_02.json"
+    },
+    {
+        "id": "a1.2.0_01",
+        "releaseTime": "2010-10-30T22:00:00+00:00",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "old_alpha",
+        "url": "https://mcphackers.github.io/jsons/a1.2.0_01.json"
+    },
+    {
+        "id": "a1.2.0",
+        "releaseTime": "2010-10-29T22:00:00+00:00",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "old_alpha",
+        "url": "https://mcphackers.github.io/jsons/a1.2.0.json"
+    },
+    {
+        "id": "a1.1.2_01",
+        "releaseTime": "2010-09-22T22:00:00+00:00",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "old_alpha",
+        "url": "https://mcphackers.github.io/jsons/a1.1.2_01.json"
+    },
+    {
+        "id": "a1.1.2",
+        "releaseTime": "2010-09-19T22:00:00+00:00",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "old_alpha",
+        "url": "https://mcphackers.github.io/jsons/a1.1.2.json"
+    },
+    {
+        "id": "a1.1.0",
+        "releaseTime": "2010-09-12T22:00:00+00:00",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "old_alpha",
+        "url": "https://mcphackers.github.io/jsons/a1.1.0.json"
+    },
+    {
+        "id": "a1.0.17_04",
+        "releaseTime": "2010-08-22T22:00:00+00:00",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "old_alpha",
+        "url": "https://mcphackers.github.io/jsons/a1.0.17_04.json"
+    },
+    {
+        "id": "a1.0.17_02",
+        "releaseTime": "2010-08-19T22:00:00+00:00",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "old_alpha",
+        "url": "https://mcphackers.github.io/jsons/a1.0.17_02.json"
+    },
+    {
+        "id": "a1.0.16",
+        "releaseTime": "2010-08-11T22:00:00+00:00",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "old_alpha",
+        "url": "https://mcphackers.github.io/jsons/a1.0.16.json"
+    },
+    {
+        "id": "a1.0.15",
+        "releaseTime": "2010-08-03T22:00:00+00:00",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "old_alpha",
+        "url": "https://mcphackers.github.io/jsons/a1.0.15.json"
+    },
+    {
+        "id": "a1.0.14",
+        "releaseTime": "2010-07-29T22:00:00+00:00",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "old_alpha",
+        "url": "https://mcphackers.github.io/jsons/a1.0.14.json"
+    },
+    {
+        "id": "a1.0.11",
+        "releaseTime": "2010-07-22T22:00:00+00:00",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "old_alpha",
+        "url": "https://mcphackers.github.io/jsons/a1.0.11.json"
+    },
+    {
+        "id": "a1.0.5_01",
+        "releaseTime": "2010-07-12T22:00:00+00:00",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "old_alpha",
+        "url": "https://mcphackers.github.io/jsons/a1.0.5_01.json"
+    },
+    {
+        "id": "a1.0.4",
+        "releaseTime": "2010-07-08T22:00:00+00:00",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "old_alpha",
+        "url": "https://mcphackers.github.io/jsons/a1.0.4.json"
+    },
+    {
+        "id": "inf-20100618",
+        "releaseTime": "2010-06-15T22:00:00+00:00",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "old_alpha",
+        "url": "https://mcphackers.github.io/jsons/inf-20100618.json"
+    },
+    {
+        "id": "c0.30_01c",
+        "releaseTime": "2009-12-21T22:00:00+00:00",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "old_alpha",
+        "url": "https://mcphackers.github.io/jsons/c0.30_01c.json"
+    },
+    {
+        "id": "c0.0.13a",
+        "releaseTime": "2009-05-30T22:00:00+00:00",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "old_alpha",
+        "url": "https://mcphackers.github.io/jsons/c0.0.13a.json"
+    },
+    {
+        "id": "c0.0.13a_03",
+        "releaseTime": "2009-05-21T22:00:00+00:00",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "old_alpha",
+        "url": "https://mcphackers.github.io/jsons/c0.0.13a_03.json"
+    },
+    {
+        "id": "c0.0.11a",
+        "releaseTime": "2009-05-16T22:00:00+00:00",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "old_alpha",
+        "url": "https://mcphackers.github.io/jsons/c0.0.11a.json"
+    },
+    {
+        "id": "rd-161348",
+        "releaseTime": "2009-05-16T11:48:00+00:00",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "old_alpha",
+        "url": "https://mcphackers.github.io/jsons/rd-161348.json"
+    },
+    {
+        "id": "rd-160052",
+        "releaseTime": "2009-05-15T22:52:00+00:00",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "old_alpha",
+        "url": "https://mcphackers.github.io/jsons/rd-160052.json"
+    },
+    {
+        "id": "rd-20090515",
+        "releaseTime": "2009-05-14T22:00:00+00:00",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "old_alpha",
+        "url": "https://mcphackers.github.io/jsons/rd-20090515.json"
+    },
+    {
+        "id": "rd-132328",
+        "releaseTime": "2009-05-13T21:28:00+00:00",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "old_alpha",
+        "url": "https://mcphackers.github.io/jsons/rd-132328.json"
+    },
+    {
+        "id": "rd-132211",
+        "releaseTime": "2009-05-13T20:11:00+00:00",
+        "time": "2022-03-10T09:51:38+00:00",
+        "type": "old_alpha",
+        "url": "https://mcphackers.github.io/jsons/rd-132211.json"
+    }
 ]
