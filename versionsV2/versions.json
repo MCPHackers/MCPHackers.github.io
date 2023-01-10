@@ -144,47 +144,12 @@
         "url": "https://mcphackers.github.io/jsons/b1.6.json"
     },
     {
-        "id": "b1.5_01",
-        "releaseTime": "2011-04-19T22:00:00+00:00",
-        "time": "2022-03-10T09:51:38+00:00",
-        "type": "old_beta",
-        "url": "https://mcphackers.github.io/jsons/b1.5_01.json"
-    },
-    {
-        "id": "b1.5",
-        "releaseTime": "2011-04-18T22:00:00+00:00",
-        "time": "2022-03-10T09:51:38+00:00",
-        "type": "old_beta",
-        "url": "https://mcphackers.github.io/jsons/b1.5.json"
-    },
-    {
-        "id": "b1.4_01",
-        "releaseTime": "2011-04-04T22:00:00+00:00",
-        "time": "2022-03-10T09:51:38+00:00",
-        "type": "old_beta",
-        "url": "https://mcphackers.github.io/jsons/b1.4_01.json"
-    },
-    {
-        "id": "b1.4",
-        "releaseTime": "2011-03-30T22:00:00+00:00",
-        "time": "2022-03-10T09:51:38+00:00",
-        "type": "old_beta",
-        "url": "https://mcphackers.github.io/jsons/b1.4.json"
-    },
-    {
         "id": "b1.3_01",
         "releaseTime": "2011-02-22T22:00:00+00:00",
         "resources": "https://mcphackers.github.io/versionsV2/b1.3_01.zip",
         "time": "2022-03-10T09:51:38+00:00",
         "type": "old_beta",
         "url": "https://mcphackers.github.io/jsons/b1.3_01.json"
-    },
-    {
-        "id": "b1.3b",
-        "releaseTime": "2011-02-21T22:00:00+00:00",
-        "time": "2022-03-10T09:51:38+00:00",
-        "type": "old_beta",
-        "url": "https://mcphackers.github.io/jsons/b1.3b.json"
     },
     {
         "id": "b1.2_02",
@@ -227,27 +192,6 @@
         "url": "https://mcphackers.github.io/jsons/b1.1_01.json"
     },
     {
-        "id": "b1.0.2",
-        "releaseTime": "2010-12-20T22:00:00+00:00",
-        "time": "2022-03-10T09:51:38+00:00",
-        "type": "old_beta",
-        "url": "https://mcphackers.github.io/jsons/b1.0.2.json"
-    },
-    {
-        "id": "b1.0_01",
-        "releaseTime": "2010-12-19T22:00:01+00:00",
-        "time": "2022-03-10T09:51:38+00:00",
-        "type": "old_beta",
-        "url": "https://mcphackers.github.io/jsons/b1.0_01.json"
-    },
-    {
-        "id": "b1.0",
-        "releaseTime": "2010-12-19T22:00:00+00:00",
-        "time": "2022-03-10T09:51:38+00:00",
-        "type": "old_beta",
-        "url": "https://mcphackers.github.io/jsons/b1.0.json"
-    },
-    {
         "id": "a1.2.6",
         "releaseTime": "2010-12-02T22:00:00+00:00",
         "resources": "https://mcphackers.github.io/versionsV2/a1.2.6.zip",
@@ -262,13 +206,6 @@
         "time": "2022-03-10T09:51:38+00:00",
         "type": "old_alpha",
         "url": "https://mcphackers.github.io/jsons/a1.2.5.json"
-    },
-    {
-        "id": "a1.2.4_01",
-        "releaseTime": "2010-11-29T22:00:00+00:00",
-        "time": "2022-03-10T09:51:38+00:00",
-        "type": "old_alpha",
-        "url": "https://mcphackers.github.io/jsons/a1.2.4_01.json"
     },
     {
         "id": "a1.2.3_04",
@@ -303,55 +240,6 @@
         "url": "https://mcphackers.github.io/jsons/a1.2.3.json"
     },
     {
-        "id": "a1.2.2b",
-        "releaseTime": "2010-11-09T22:00:01+00:00",
-        "time": "2022-03-10T09:51:38+00:00",
-        "type": "old_alpha",
-        "url": "https://mcphackers.github.io/jsons/a1.2.2b.json"
-    },
-    {
-        "id": "a1.2.2a",
-        "releaseTime": "2010-11-09T22:00:00+00:00",
-        "time": "2022-03-10T09:51:38+00:00",
-        "type": "old_alpha",
-        "url": "https://mcphackers.github.io/jsons/a1.2.2a.json"
-    },
-    {
-        "id": "a1.2.1_01",
-        "releaseTime": "2010-11-04T22:00:01+00:00",
-        "time": "2022-03-10T09:51:38+00:00",
-        "type": "old_alpha",
-        "url": "https://mcphackers.github.io/jsons/a1.2.1_01.json"
-    },
-    {
-        "id": "a1.2.1",
-        "releaseTime": "2010-11-04T22:00:00+00:00",
-        "time": "2022-03-10T09:51:38+00:00",
-        "type": "old_alpha",
-        "url": "https://mcphackers.github.io/jsons/a1.2.1.json"
-    },
-    {
-        "id": "a1.2.0_02",
-        "releaseTime": "2010-11-03T22:00:00+00:00",
-        "time": "2022-03-10T09:51:38+00:00",
-        "type": "old_alpha",
-        "url": "https://mcphackers.github.io/jsons/a1.2.0_02.json"
-    },
-    {
-        "id": "a1.2.0_01",
-        "releaseTime": "2010-10-30T22:00:00+00:00",
-        "time": "2022-03-10T09:51:38+00:00",
-        "type": "old_alpha",
-        "url": "https://mcphackers.github.io/jsons/a1.2.0_01.json"
-    },
-    {
-        "id": "a1.2.0",
-        "releaseTime": "2010-10-29T22:00:00+00:00",
-        "time": "2022-03-10T09:51:38+00:00",
-        "type": "old_alpha",
-        "url": "https://mcphackers.github.io/jsons/a1.2.0.json"
-    },
-    {
         "id": "a1.1.2_01",
         "releaseTime": "2010-09-22T22:00:00+00:00",
         "resources": "https://mcphackers.github.io/versionsV2/a1.1.2_01.zip",
@@ -366,13 +254,6 @@
         "time": "2022-03-10T09:51:38+00:00",
         "type": "old_alpha",
         "url": "https://mcphackers.github.io/jsons/a1.1.2.json"
-    },
-    {
-        "id": "a1.1.0",
-        "releaseTime": "2010-09-12T22:00:00+00:00",
-        "time": "2022-03-10T09:51:38+00:00",
-        "type": "old_alpha",
-        "url": "https://mcphackers.github.io/jsons/a1.1.0.json"
     },
     {
         "id": "a1.0.17_04",
@@ -439,20 +320,6 @@
         "url": "https://mcphackers.github.io/jsons/a1.0.4.json"
     },
     {
-        "id": "inf-20100618",
-        "releaseTime": "2010-06-15T22:00:00+00:00",
-        "time": "2022-03-10T09:51:38+00:00",
-        "type": "old_alpha",
-        "url": "https://mcphackers.github.io/jsons/inf-20100618.json"
-    },
-    {
-        "id": "c0.30_01c",
-        "releaseTime": "2009-12-21T22:00:00+00:00",
-        "time": "2022-03-10T09:51:38+00:00",
-        "type": "old_alpha",
-        "url": "https://mcphackers.github.io/jsons/c0.30_01c.json"
-    },
-    {
         "id": "c0.0.13a",
         "releaseTime": "2009-05-30T22:00:00+00:00",
         "time": "2022-03-10T09:51:38+00:00",
@@ -508,5 +375,530 @@
         "time": "2022-03-10T09:51:38+00:00",
         "type": "old_alpha",
         "url": "https://mcphackers.github.io/jsons/rd-132211.json"
+    },
+    {
+        "id": "in-20100110",
+        "releaseTime": "2010-01-10T22:02:26+00:00",
+        "resources": "in-20100110.zip",
+        "time": "2010-01-10T22:02:26+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "a1.0.2_02",
+        "releaseTime": "2010-07-06T17:44:32+00:00",
+        "resources": "a1.0.2_01.zip",
+        "time": "2010-07-06T17:44:32+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "a1.0.2_01",
+        "releaseTime": "2010-07-06T12:27:22+00:00",
+        "resources": "a1.0.2_01.zip",
+        "time": "2010-07-06T12:27:22+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "b1.4_01",
+        "releaseTime": "2011-04-04T22:00:00+00:00",
+        "resources": "b1.4_01.zip",
+        "time": "2011-04-04T22:00:00+00:00",
+        "type": "old_beta"
+    },
+    {
+        "id": "in-20091223-2",
+        "releaseTime": "2009-12-23T13:59:06+00:00",
+        "resources": "in-20091223-2.zip",
+        "time": "2009-12-23T13:59:06+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "c0.0.23a_01",
+        "releaseTime": "2009-07-11T13:35:02+00:00",
+        "resources": "c0.0.23a_01.zip",
+        "time": "2009-07-11T13:35:02+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "inf-20100415",
+        "releaseTime": "2010-04-15T08:32:06+00:00",
+        "resources": "inf-20100415.zip",
+        "time": "2010-04-15T08:32:06+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "inf-20100625-1",
+        "releaseTime": "2010-06-25T08:22:34+00:00",
+        "resources": "inf-20100625-1.zip",
+        "time": "2010-06-25T08:22:34+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "b1.6-tb3",
+        "releaseTime": "2011-05-25T07:35:42+00:00",
+        "resources": "b1.6-tb3.zip",
+        "time": "2011-05-25T07:35:42+00:00",
+        "type": "old_beta"
+    },
+    {
+        "id": "in-20100223",
+        "releaseTime": "2010-02-23T14:42:06+00:00",
+        "resources": "in-20100223.zip",
+        "time": "2010-02-23T14:42:06+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "a1.0.14-2",
+        "releaseTime": "2010-07-30T15:59:14+00:00",
+        "resources": "a1.0.14.zip",
+        "time": "2010-07-30T15:59:14+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "in-20100104",
+        "releaseTime": "2010-01-04T21:58:10+00:00",
+        "resources": "in-20100104.zip",
+        "time": "2010-01-04T21:58:10+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "a1.0.14-1",
+        "releaseTime": "2010-07-30T15:03:24+00:00",
+        "resources": "a1.0.14.zip",
+        "time": "2010-07-30T15:03:24+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "b1.3-pcg",
+        "releaseTime": "2011-03-15T22:00:32+00:00",
+        "resources": "b1.3-pcg.zip",
+        "time": "2011-03-15T22:00:32+00:00",
+        "type": "old_beta"
+    },
+    {
+        "id": "b1.1-2",
+        "releaseTime": "2010-12-22T11:55:30+00:00",
+        "resources": "b1.1.zip",
+        "time": "2010-12-22T11:55:30+00:00",
+        "type": "old_beta"
+    },
+    {
+        "id": "b1.1-1",
+        "releaseTime": "2010-12-22T11:45:10+00:00",
+        "resources": "b1.1.zip",
+        "time": "2010-12-22T11:45:10+00:00",
+        "type": "old_beta"
+    },
+    {
+        "id": "in-20100212-2",
+        "releaseTime": "2010-02-12T15:22:08+00:00",
+        "resources": "in-20100212-2.zip",
+        "time": "2010-02-12T15:22:08+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "in-20100212-1",
+        "releaseTime": "2010-02-12T11:10:52+00:00",
+        "resources": "in-20100212-1.zip",
+        "time": "2010-02-12T11:10:52+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "c0.0.21a",
+        "releaseTime": "2009-06-22T19:08:40+00:00",
+        "resources": "c0.0.21a.zip",
+        "time": "2009-06-22T19:08:40+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "c0.0.17a",
+        "releaseTime": "2009-06-10T19:14:44+00:00",
+        "resources": "c0.0.17a.zip",
+        "time": "2009-06-10T19:14:44+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "in-20100213",
+        "releaseTime": "2010-02-13T21:58:22+00:00",
+        "resources": "in-20100213.zip",
+        "time": "2010-02-13T21:58:22+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "in-20100214",
+        "releaseTime": "2010-02-14T20:43:44+00:00",
+        "resources": "in-20100214.zip",
+        "time": "2010-02-14T20:43:44+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "in-20100219",
+        "releaseTime": "2010-02-19T14:11:32+00:00",
+        "resources": "in-20100219.zip",
+        "time": "2010-02-19T14:11:32+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "in-20100218",
+        "releaseTime": "2010-02-17T23:16:04+00:00",
+        "resources": "in-20100218.zip",
+        "time": "2010-02-17T23:16:04+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "b1.9-pre5",
+        "releaseTime": "2011-10-27T13:36:04+00:00",
+        "resources": "b1.9-pre5.zip",
+        "time": "2011-10-27T13:36:04+00:00",
+        "type": "old_beta"
+    },
+    {
+        "id": "in-20100201-2",
+        "releaseTime": "2010-02-01T21:27:26+00:00",
+        "resources": "in-20100201-2.zip",
+        "time": "2010-02-01T21:27:26+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "a1.0.17_03",
+        "releaseTime": "2010-08-23T15:22:30+00:00",
+        "resources": "a1.0.17.zip",
+        "time": "2010-08-23T15:22:30+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "in-20100201-1",
+        "releaseTime": "2010-01-31T23:25:48+00:00",
+        "resources": "in-20100201-1.zip",
+        "time": "2010-01-31T23:25:48+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "c0.0.22a_05",
+        "releaseTime": "2009-06-29T22:28:28+00:00",
+        "resources": "c0.0.22a_05.zip",
+        "time": "2009-06-29T22:28:28+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "a1.0.1_01",
+        "releaseTime": "2010-07-02T22:19:56+00:00",
+        "resources": "a1.0.1_01.zip",
+        "time": "2010-07-02T22:19:56+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "in-20100202",
+        "releaseTime": "2010-02-02T22:30:46+00:00",
+        "resources": "in-20100202.zip",
+        "time": "2010-02-02T22:30:46+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "in-20100206",
+        "releaseTime": "2010-02-06T20:03:58+00:00",
+        "resources": "in-20100206.zip",
+        "time": "2010-02-06T20:03:58+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "inf-20100227",
+        "releaseTime": "2010-02-27T13:33:02+00:00",
+        "resources": "inf-20100227.zip",
+        "time": "2010-02-27T13:33:02+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "inf-20100624",
+        "releaseTime": "2010-06-24T16:39:08+00:00",
+        "resources": "inf-20100624.zip",
+        "time": "2010-06-24T16:39:08+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "in-20091231",
+        "releaseTime": "2009-12-31T21:55:48+00:00",
+        "resources": "in-20091231.zip",
+        "time": "2009-12-31T21:55:48+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "inf-20100330",
+        "releaseTime": "2010-03-30T15:11:02+00:00",
+        "resources": "inf-20100330.zip",
+        "time": "2010-03-30T15:11:02+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "c0.0.15a",
+        "releaseTime": "2009-05-31T18:04:24+00:00",
+        "resources": "c0.0.15a.zip",
+        "time": "2009-05-31T18:04:24+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "a1.0.6_01",
+        "releaseTime": "2010-07-17T16:03:22+00:00",
+        "resources": "a1.0.6.zip",
+        "time": "2010-07-17T16:03:22+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "a1.0.6_03",
+        "releaseTime": "2010-07-17T17:24:58+00:00",
+        "resources": "a1.0.6.zip",
+        "time": "2010-07-17T17:24:58+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "c0.0.18a_02",
+        "releaseTime": "2009-06-14T08:53:24+00:00",
+        "resources": "c0.0.18a_02.zip",
+        "time": "2009-06-14T08:53:24+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "in-20100131-2",
+        "releaseTime": "2010-01-31T21:44:48+00:00",
+        "resources": "in-20100131-2.zip",
+        "time": "2010-01-31T21:44:48+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "a1.0.10",
+        "releaseTime": "2010-07-22T15:57:14+00:00",
+        "resources": "a1.0.10.zip",
+        "time": "2010-07-22T15:57:14+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "a1.0.12",
+        "releaseTime": "2010-07-26T15:08:56+00:00",
+        "resources": "a1.0.12.zip",
+        "time": "2010-07-26T15:08:56+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "a1.0.13",
+        "releaseTime": "2010-07-28T15:30:02+00:00",
+        "resources": "a1.0.13.zip",
+        "time": "2010-07-28T15:30:02+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "c0.0.14a_08",
+        "releaseTime": "2009-05-28T19:37:38+00:00",
+        "resources": "c0.0.14a_08.zip",
+        "time": "2009-05-28T19:37:38+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "b1.5_01",
+        "releaseTime": "2011-04-19T22:00:00+00:00",
+        "resources": "b1.5_01.zip",
+        "time": "2011-04-19T22:00:00+00:00",
+        "type": "old_beta"
+    },
+    {
+        "id": "a1.0.9",
+        "releaseTime": "2010-07-21T10:30:30+00:00",
+        "resources": "a1.0.9.zip",
+        "time": "2010-07-21T10:30:30+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "a1.0.6",
+        "releaseTime": "2010-07-16T10:29:26+00:00",
+        "resources": "a1.0.6.zip",
+        "time": "2010-07-16T10:29:26+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "a1.0.7",
+        "releaseTime": "2010-07-19T16:23:56+00:00",
+        "resources": "a1.0.7.zip",
+        "time": "2010-07-19T16:23:56+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "a1.0.5",
+        "releaseTime": "2010-07-13T20:49:50+00:00",
+        "resources": "a1.0.5.zip",
+        "time": "2010-07-13T20:49:50+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "c0.0.16a_02",
+        "releaseTime": "2009-06-08T09:47:16+00:00",
+        "resources": "c0.0.16a_02.zip",
+        "time": "2009-06-08T09:47:16+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "a1.0.3",
+        "releaseTime": "2010-07-07T17:59:24+00:00",
+        "resources": "a1.0.3.zip",
+        "time": "2010-07-07T17:59:24+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "inf-20100327",
+        "releaseTime": "2010-03-27T19:06:32+00:00",
+        "resources": "inf-20100327.zip",
+        "time": "2010-03-27T19:06:32+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "c0.0.20a_01",
+        "releaseTime": "2009-06-20T20:10:58+00:00",
+        "resources": "c0.0.20a_01.zip",
+        "time": "2009-06-20T20:10:58+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "in-20100130",
+        "releaseTime": "2010-01-30T00:09:30+00:00",
+        "resources": "in-20100130.zip",
+        "time": "2010-01-30T00:09:30+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "in-20100207-2",
+        "releaseTime": "2010-02-07T16:03:36+00:00",
+        "resources": "in-20100207-2.zip",
+        "time": "2010-02-07T16:03:36+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "in-20100207-1",
+        "releaseTime": "2010-02-07T10:01:02+00:00",
+        "resources": "in-20100207-1.zip",
+        "time": "2010-02-07T10:01:02+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "c0.0.12a_03",
+        "releaseTime": "2009-05-19T23:18:48+00:00",
+        "resources": "c0.0.12a_03.zip",
+        "time": "2009-05-19T23:18:48+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "a1.0.16_01",
+        "releaseTime": "2010-08-12T17:00:06+00:00",
+        "resources": "a1.0.16.zip",
+        "time": "2010-08-12T17:00:06+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "in-20100124-2",
+        "releaseTime": "2010-01-24T22:10:20+00:00",
+        "resources": "in-20100124-2.zip",
+        "time": "2010-01-24T22:10:20+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "a1.0.8_01",
+        "releaseTime": "2010-07-19T22:40:38+00:00",
+        "resources": "a1.0.8_01.zip",
+        "time": "2010-07-19T22:40:38+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "a1.0.13_01-1",
+        "releaseTime": "2010-07-29T09:38:16+00:00",
+        "resources": "a1.0.13.zip",
+        "time": "2010-07-29T09:38:16+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "a1.0.13_01-2",
+        "releaseTime": "2010-07-29T13:44:52+00:00",
+        "resources": "a1.0.13.zip",
+        "time": "2010-07-29T13:44:52+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "inf-20100420",
+        "releaseTime": "2010-04-20T15:35:44+00:00",
+        "resources": "inf-20100420.zip",
+        "time": "2010-04-20T15:35:44+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "in-20100125",
+        "releaseTime": "2010-01-25T20:00:58+00:00",
+        "resources": "in-20100125.zip",
+        "time": "2010-01-25T20:00:58+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "b1.7_01",
+        "releaseTime": "2011-06-30T13:34:46+00:00",
+        "resources": "b1.7.zip",
+        "time": "2011-06-30T13:34:46+00:00",
+        "type": "old_beta"
+    },
+    {
+        "id": "in-20100129",
+        "releaseTime": "2010-01-29T13:52:40+00:00",
+        "resources": "in-20100129.zip",
+        "time": "2010-01-29T13:52:40+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "c0.0.19a_06",
+        "releaseTime": "2009-06-20T00:37:34+00:00",
+        "resources": "c0.0.19a.zip",
+        "time": "2009-06-20T00:37:34+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "in-20100128",
+        "releaseTime": "2010-01-28T22:04:18+00:00",
+        "resources": "in-20100128.zip",
+        "time": "2010-01-28T22:04:18+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "c0.0.19a_04",
+        "releaseTime": "2009-06-19T23:53:16+00:00",
+        "resources": "c0.0.19a.zip",
+        "time": "2009-06-19T23:53:16+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "a1.1.1",
+        "releaseTime": "2010-09-18T16:29:56+00:00",
+        "resources": "a1.1.1.zip",
+        "time": "2010-09-18T16:29:56+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "a1.0.16_02",
+        "releaseTime": "2010-08-13T08:30:14+00:00",
+        "resources": "a1.0.16.zip",
+        "time": "2010-08-13T08:30:14+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "inf-20100630-1",
+        "releaseTime": "2010-06-30T12:40:06+00:00",
+        "resources": "inf-20100630-1.zip",
+        "time": "2010-06-30T12:40:06+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "inf-20100630-2",
+        "releaseTime": "2010-06-30T17:35:02+00:00",
+        "resources": "inf-20100630-1.zip",
+        "time": "2010-06-30T17:35:02+00:00",
+        "type": "old_alpha"
+    },
+    {
+        "id": "a1.1.0",
+        "releaseTime": "2010-09-12T22:00:00+00:00",
+        "resources": "a1.1.0.zip",
+        "time": "2010-09-12T22:00:00+00:00",
+        "type": "old_alpha"
     }
 ]
