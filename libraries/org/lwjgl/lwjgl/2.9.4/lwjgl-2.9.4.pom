@@ -1,10 +1,5 @@
 <project>
 	<modelVersion>4.0.0</modelVersion>
-	<parent>
-		<groupId>org.lwjgl.lwjgl</groupId>
-		<artifactId>parent</artifactId>
-		<version>2.9.4</version>
-	</parent>
 	<groupId>org.lwjgl.lwjgl</groupId>
 	<artifactId>lwjgl</artifactId>
 	<packaging>jar</packaging>
@@ -18,6 +13,24 @@
 	</scm>
 
 	<dependencies>
+		<!-- <dependency>
+			<groupId>${project.groupId}</groupId>
+			<artifactId>lwjgl-platform</artifactId>
+			<version>${project.version}</version>
+			<classifier>natives-windows</classifier>
+		</dependency>
+		<dependency>
+			<groupId>${project.groupId}</groupId>
+			<artifactId>lwjgl-platform</artifactId>
+			<version>${project.version}</version>
+			<classifier>natives-linux</classifier>
+		</dependency>
+		<dependency>
+			<groupId>${project.groupId}</groupId>
+			<artifactId>lwjgl-platform</artifactId>
+			<version>${project.version}</version>
+			<classifier>natives-osx</classifier> 
+		</dependency> -->
 		<dependency>
 			<groupId>net.java.jinput</groupId>
 			<artifactId>jinput</artifactId>
