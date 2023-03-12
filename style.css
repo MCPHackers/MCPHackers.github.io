@@ -312,15 +312,15 @@ h1, h2 { --shadow-color: #3F3F3F; --text-color: #FFFFFF; }
 @keyframes splash {
   0%   {
 	  animation-timing-function: ease-out;
-	  transform: rotate(-15deg) translateX(calc(var(--local-scale) * 30px)) scale(0.9);
+	  transform: rotate(-20deg) translateX(calc(var(--local-scale) * 30px)) scale(1);
 	  }
   50%   {
 	  animation-timing-function: ease-in;
-	  transform: rotate(-15deg) translateX(calc(var(--local-scale) * 30px)) scale(1);
+	  transform: rotate(-20deg) translateX(calc(var(--local-scale) * 30px)) scale(0.9);
 	  }
   100%   {
 	  animation-timing-function: ease-out;
-	  transform: rotate(-15deg) translateX(calc(var(--local-scale) * 30px)) scale(0.9);
+	  transform: rotate(-20deg) translateX(calc(var(--local-scale) * 30px)) scale(1);
 	  }
 }
 
