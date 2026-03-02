@@ -1,5 +1,5 @@
 const versions = document.getElementById("vers");
-fetch('versionsv3/versions.json').then((response) => response.json()).then((json) => {
+fetch('versionsV3/versions.json').then((response) => response.json()).then((json) => {
     const map = Object.entries(json);
     map.sort((a, b) => {
         return (a[1].releaseTime < b[1].releaseTime) ? 1 : ((a[1].releaseTime > b[1].releaseTime) ? -1 : 0);
