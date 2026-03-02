@@ -22,7 +22,7 @@ fetch('versions/versions.json').then((response) => response.json()).then((json) 
 		const child3 = document.createElement("span");
 		child3.className = "flex";
 		const child4 = document.createElement("a");
-		child4.href = clientURL;;
+		child4.href = clientURL;
 		child4.appendChild(document.createTextNode("Client"));
 		child3.appendChild(child4);
 		child3.appendChild(getServerTag(serverURL));
