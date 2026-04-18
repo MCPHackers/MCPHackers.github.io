@@ -474,6 +474,14 @@
         "url": "https://mcphackers.org/BetterJSONs/jsons/inf-20100415.json"
     },
     {
+        "id": "inf-20100615",
+        "releaseTime": "2010-06-15T14:03:54+00:00",
+        "resources": "https://mcphackers.org/versionsV3/inf-20100615.zip",
+        "time": "2026-03-26T08:14:15+00:00",
+        "type": "old_alpha",
+        "url": "https://mcphackers.org/BetterJSONs/jsons/inf-20100615.json"
+    },
+    {
         "id": "inf-20100618",
         "releaseTime": "2010-06-15T22:00:00+00:00",
         "resources": "https://mcphackers.org/versionsV2/inf-20100618.zip",
