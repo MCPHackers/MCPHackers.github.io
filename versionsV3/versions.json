@@ -328,6 +328,14 @@
         "url":"https://mcphackers.org/BetterJSONs/jsons/c0.24_st_03.json"
     },
     {
+        "id": "c0.27_st",
+        "releaseTime":"2009-10-24T11:20:42+00:00",
+        "resources":"https://mcphackers.org/versionsV3/c0.27_st.zip",
+        "time":"2026-07-11T14:52:10+00:00",
+        "type": "old_alpha",
+        "url":"https://mcphackers.org/BetterJSONs/jsons/c0.27_st.json"
+    },
+    {
         "id": "c0.30-c-1900",
         "releaseTime": "2009-11-10T19:00:40+00:00",
         "resources": "https://mcphackers.org/versionsV3/c0.30.zip",
