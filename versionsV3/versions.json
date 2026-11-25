@@ -650,6 +650,14 @@
         "url": "https://mcphackers.org/BetterJSONs/jsons/b1.9-pre5.json"
     },
     {
+        "id": "b1.9-pre3-1350",
+        "releaseTime": "2011-10-06T13:52:09+00:00",
+        "resources": "https://mcphackers.org/versionsV3/b1.9-pre3-1350.zip",
+        "time": "2026-09-19T22:56:28+00:00",
+        "type": "old_beta",
+        "url": "https://github.com/MCPHackers/BetterJSONs/jsons/b1.9-pre3-1350.json",
+    },
+    {
         "id": "in-20100201-2227",
         "releaseTime": "2010-02-01T21:27:26+00:00",
         "resources": "https://mcphackers.org/versionsV2/in-20100201-2.zip",
